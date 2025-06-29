@@ -10,8 +10,7 @@ _she/her/hers_
 **Class:**
 **Alignment:**
 
-\[ Brief description blurb about the character ]
-
+Leader of the [[Silverton Resistance]].
 # Campaign Events
 
 \[ Brief summary of changes to the character/their involvement as a result of the events of the campaign in which they are featured ]
