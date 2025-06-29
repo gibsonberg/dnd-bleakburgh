@@ -8,7 +8,7 @@ Campaign: [[First Campaign]]
 Setting: [[Bleakburgh]]
 
 Previous Session: [[2025-01-26 Hospitality]]
-Next Session: [[2025-02-10]]
+Next Session: [[2025-02-10 Sewer Run]]
 
 - We open still in the home of the Authors
 - Lark rifles through chests, taking poison damage from a trapped drawer. Within it is a wealth of research.
