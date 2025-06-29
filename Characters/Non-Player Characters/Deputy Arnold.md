@@ -31,5 +31,5 @@ Arnold is gay.
 - [[2024-10-19 Low Bar]]
 - [[2024-11-25 Religious Trauma]]
 - [[2024-12-01 Regression]]
-- [[2024-12-19]]
+- [[2024-12-19 In Passing]]
 - 

@@ -22,4 +22,4 @@ Jacob Gulley was the local doctor of [[Beatstone]]. His son was the first to dev
 
 # Sessions Featured
 
-- [[2024-11-09]] (mentioned by Carla)
+- [[2024-11-09 Connections]] (mentioned by Carla)

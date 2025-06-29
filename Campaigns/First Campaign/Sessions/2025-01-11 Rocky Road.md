@@ -7,7 +7,7 @@ tags:
 Campaign: [[First Campaign]]
 Setting: [[Bleakburgh]]
 
-Previous Session: [[2024-12-29 Civilization]]
+Previous Session: [[2024-12-29 Best-Laid Plans]]
 Next Session: 
 
 - The group races south until they practically collapse from exhaustion about 7 miles from the city. We immediately long rest

@@ -37,6 +37,6 @@ The Crusaders of Eve are actively hostile towards the [[Silverton Resistance]], 
 
 - [[First Campaign]]
 	- [[2024-10-19 Low Bar]] (mentioned)
-	- [[2024-11-09]] (briefly)
+	- [[2024-11-09 Connections]] (briefly)
 	- [[2024-11-25 Religious Trauma]]
 	- 

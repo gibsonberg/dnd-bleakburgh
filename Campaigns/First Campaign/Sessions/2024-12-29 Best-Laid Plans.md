@@ -7,8 +7,8 @@ tags:
 Campaign: [[First Campaign]]
 Setting: [[Bleakburgh]]
 
-Previous Session: [[2024-12-19]]
-Next Session: [[2025-01-11]]
+Previous Session: [[2024-12-19 In Passing]]
+Next Session: [[2025-01-11 Rocky Road]]
 
 
 - The hooded figure slips into the crowd outside of the doctor's office.
@@ -68,7 +68,7 @@ Next Session: [[2025-01-11]]
 	- The mafia member suggest Jim throw Friedrich under the bus to cover for a lost brick
 	- The dude tries to jump through the barred window for his exit
 - Slim Jim delivers the coke to Dr Jones. They get into a scuffle over the agreement of "two rows for the cat"
-	- Jones gets a few early hits, but Slim Jim heals and hits 4 time with Smite
+	- Jones gets a few early hits, but Slim Jim heals and hits 4 times with Smite
 	- Slim Jim instakills the fucker. He is painted across the walls.
 - Heist
 	- Jim & Fineas on team distraction, Lark/Creature/Pony on team infiltration

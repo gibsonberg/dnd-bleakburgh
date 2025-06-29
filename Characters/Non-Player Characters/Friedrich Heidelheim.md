@@ -33,5 +33,5 @@ During his travels in Bleakburgh, it is posited that he managed to survive his e
 # Sessions Featured
 
 - [[2024-12-01 Regression]]
-- [[2024-12-19]]
+- [[2024-12-19 In Passing]]
 - 

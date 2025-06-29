@@ -7,7 +7,7 @@ tags:
 Campaign: [[First Campaign]]
 Setting: [[Bleakburgh]]
 
-Previous Session: [[2025-04-06 Walking]]
+Previous Session: [[2025-04-06 Bugging]]
 Next Session: 
 
 - [[Bastle]]: a bunched together central town, with scattered houses around in classic spaghetti western town fashion

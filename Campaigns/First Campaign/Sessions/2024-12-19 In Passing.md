@@ -8,7 +8,7 @@ Campaign: [[First Campaign]]
 Setting: [[Bleakburgh]]
 
 Previous Session: [[2024-12-01 Regression]]
-Next Session: [[2024-12-29 Civilization]]
+Next Session: [[2024-12-29 Best-Laid Plans]]
 
 The party begins having just watched Pony's hand crawl into the pit and touch the "[[Wolf's Spine Gorge#Time Yarn|time yarn]]" in [[Wolf's Spine Gorge]], being atomized in the process and causing a thread to shoot off into the distance. As [[Harrigan-Penn Party]] stands around the pit, Fineas feels as though something similar to what happened to Pony's hand is happening to the rest of us on a slower scale. The group as a whole notices certain recent memories (such as what [[Friedrich Heidelheim]] means to the group) have begun to disappear. They decide to leave, running towards the opening of the cavern. As the group runs, [[Pony Harrigan]] and [[Fineas Penn]] reminisce on one of [[Freddy Faazbare]]'s hit songs, singing "AR AR AR AR AR".
 

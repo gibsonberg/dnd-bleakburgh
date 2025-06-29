@@ -7,7 +7,7 @@ tags:
 Campaign: [[First Campaign]]
 Setting: [[Bleakburgh]]
 
-Previous Session: [[2025-01-11]]
+Previous Session: [[2025-01-11 Rocky Road]]
 Next Session: 
 
 - We stand at the entrance of a mouth of stone stepping down -- we're in a flat desert region

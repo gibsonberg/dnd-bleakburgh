@@ -26,4 +26,4 @@ The Mushroom Idol is a massive fungal growth attached to the back wall of a cham
 
 # Sessions Featured
 
-- [[2024-11-09]]
+- [[2024-11-09 Connections]]

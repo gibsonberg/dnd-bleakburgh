@@ -30,4 +30,4 @@ Freddy Faazbare is a popular musician from [[Sundance]]. Faazbare perished in th
 
 # Sessions Featured
 
-- [[2024-12-19]] (mentioned)
+- [[2024-12-19 In Passing]] (mentioned)

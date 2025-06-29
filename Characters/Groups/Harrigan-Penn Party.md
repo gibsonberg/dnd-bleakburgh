@@ -25,8 +25,8 @@ The [[Silverton Resistance]] and the Party share mixed relations. Generally, the
 - [[Deputy Arnold]] (since [[2024-11-25 Religious Trauma]])
 - [[Friedrich Heidelheim]] (formerly, [[2024-12-01 Regression]] to [[2025-01-19 Tunnel Visions]])
 - [[Maisie Penn]] (as prisoner, since [[2025-02-10 Sewer Run]])
-- [[Alistaire Hayes]] (since [[2025-03-24]]?)
-- [[Fern]] (since [[2025-03-24]])
+- [[Alistaire Hayes]] (since [[2025-03-24 Goodbyes]]?)
+- [[Fern]] (since [[2025-03-24 Goodbyes]])
 
 
 # Campaigns Featured

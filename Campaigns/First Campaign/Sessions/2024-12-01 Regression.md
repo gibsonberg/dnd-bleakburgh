@@ -8,7 +8,7 @@ Campaign: [[First Campaign]]
 Setting: [[Bleakburgh]]
 
 Previous Session: [[2024-11-25 Religious Trauma]]
-Next Session: [[2024-12-19]]
+Next Session: [[2024-12-19 In Passing]]
 
 [[Harrigan-Penn Party]] observes [[Lark]]'s home progress through its time loop. They notice crude tombstones near the home marked "Mom," and three other for children also named after birds. The group gives Lark their condolences, each feeling some remorse for the shit they gave the kid during their journey up to this point. [[Fineas Penn]] attempts to use the [[Left Hand of the Foreman]] to cast [[Speak with Dead]] on the tombstones, but is only able to tell that Lark's family is caught in an in-between state of life and death in their time loop, which he remarks internally is similar to how he himself feels. The group discusses the time loop with Lark, and finds that Lark has tried to re-enter the house, but that it kicks him out at the same time each day, and that the time loop can only affect the outside world (not the other way around). Lark is revealed to have remained with his old home for at least 2 years.
 

@@ -7,7 +7,7 @@ tags:
 Campaign: [[First Campaign]]
 Setting: [[Bleakburgh]]
 
-Previous Session: [[2024-11-09]]
+Previous Session: [[2024-11-09 Connections]]
 Next Session: [[2024-12-01 Regression]]
 
 [[Harrigan-Penn Party]] exits the cave containing the [[Mushroom Idol]] in [[Beatstone]], the tunnels collapsing behind them. As they emerge, the group is met by a party of [[Crusaders of Eve|Eve's Cathars]] wearing all-white and gas masks. One of them says [[Fineas Penn|Fineas']] name, but when questioned by another if they recognize him, they slink back and deny it. The group is put in manacles, stripped of any immediately-recognizable weapons, and lead to one of the towers on the west side of the town, which is surrounded by tents.
