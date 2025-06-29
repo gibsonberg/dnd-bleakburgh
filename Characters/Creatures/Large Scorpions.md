@@ -3,7 +3,6 @@ tags:
   - character
   - non-player
   - creature
-  - cre
 ---
 
 

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Non-Player Characters/Ainsley.md",
+                "file": "Campaigns/First Campaign/Sessions/2024-10-05 Two Rows.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ainsley"
+              "title": "2024-10-05 Two Rows"
             }
           }
         ]
@@ -202,11 +202,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "35179ec97d66f305",
+  "active": "9fce84d4dc8a6ffa",
   "lastOpenFiles": [
+    "Campaigns/First Campaign/Sessions/2024-09-28 Prickly Beginnings.md",
+    "Images/Characters/FinPenn.png",
+    "Images/Characters/newchar.jpeg",
+    "Images/Characters/PonyHarr.png",
+    "Images/Characters/SlimJim.JPG",
+    "Characters/Creatures/Basilisk.md",
+    "Characters/Creatures/Large Scorpions.md",
+    "Characters/Non-Player Characters/Bertha.md",
+    "History/Void Cataclysm.md",
+    "Characters/Creatures",
+    "Locations/Arulon.md",
+    "History",
+    "Locations/Evaweide.md",
+    "Locations/Tikana.md",
+    "Characters/Non-Player Characters/Ainsley.md",
+    "Locations/Bleakburgh",
     "Characters/Non-Player Characters/Seamus.md",
     "Characters/Non-Player Characters/Alistaire Hayes.md",
-    "Characters/Non-Player Characters/Ainsley.md",
     "Characters/Groups/Crusaders of Eve.md",
     "Campaigns/First Campaign/Sessions/2025-03-24 Goodbyes.md",
     "Campaigns/First Campaign/Sessions/2025-04-06 Bugging.md",
@@ -222,14 +237,6 @@
     "Campaigns/First Campaign/Sessions/2025-01-26 Hospitality.md",
     "Campaigns/First Campaign/Sessions/2025-01-19 Tunnel Visions.md",
     "Campaigns/First Campaign/Sessions/2024-11-25 Religious Trauma.md",
-    "Campaigns/First Campaign/Sessions/2024-10-19 Low Bar.md",
-    "Fineas Penn-OLD.md",
-    "Campaigns/First Campaign/Sessions/2024-10-05 Two Rows.md",
-    "Campaigns/First Campaign/Sessions/2024-09-28 Prickly Beginnings.md",
-    "Settings/Bleakburgh/Locations/Bastle.md",
-    "Settings/Bleakburgh/Characters/Non-Player Characters/Doctor Brenner.md",
-    "Settings/Bleakburgh/Locations/Beatstone.md",
-    "Settings/Bleakburgh/Locations/Greenfang.md",
     "Settings/Bleakburgh/Characters/Player Characters/Concept Warform",
     "Settings/Bleakburgh/Images/Characters/SlimJim.JPG",
     "Settings/Bleakburgh/Images/Characters/image_123650291.JPG",
@@ -241,10 +248,7 @@
     "Settings/Bleakburgh/Characters/Player Characters/Fineas Penn",
     "Settings/Bleakburgh/Characters/Player Characters/Fineas Penn-OLD/Gameplay",
     "Settings/Bleakburgh/Characters/Player Characters/Fineas Penn-OLD",
-    "Settings/Bleakburgh/Characters/Player Characters/Player Character/Character Sheet",
-    "Settings/Bleakburgh/Characters/Player Characters/Player Character",
     "Settings/Bleakburgh/Images/Characters/newchar.jpeg",
-    "Templates/Player Character",
     "Settings/Bleakburgh/Images/Characters/FinPenn.png",
     "Untitled.canvas"
   ]
