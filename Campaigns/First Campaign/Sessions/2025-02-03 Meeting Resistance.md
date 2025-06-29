@@ -1,0 +1,158 @@
+---
+tags:
+  - campaign
+  - session
+---
+
+Campaign: [[First Campaign]]
+Setting: [[Bleakburgh]]
+
+Previous Session: [[2025-01-26 Hospitality]]
+Next Session: [[2025-02-10]]
+
+- We open still in the home of the Authors
+- Lark rifles through chests, taking poison damage from a trapped drawer. Within it is a wealth of research.
+	- It seems the Cathars returning groups figuring out which phenomena are from void energy, sifting through them for their own uses
+	- The Cathars have mines under quarantine
+		- There's lots of people in these mines -- for what? They aren't actually quarantined
+- The head doesn't respond well to questions. We feed it to the creature.
+- Pony goes upstairs to talk to the authors about the things he read about.
+	- Those of us downstairs are trying to discern the covernsation.
+		- I am unable to hear much at all through the floorboards, and while I'm trying to listen, I hear whispers from the Mycelium pulling me a bunch of different directions
+- One of the whispers locks in. I can tell it's coming from a particular wall.
+	- I search and figure out there's a door in this wall. I can't find the latch, but it's clear that the brick pattern changes.
+	- I get Lark to help investigate the door. He barely finds it.
+- Lark opens the door and nothing happens. The authors see it.
+	- Lark and I happily walk down the tunnel. It used to be a sewer?
+	- As we go further, we come across lit sconced torches.
+	- Lark stealths off ahead of the group.
+		- It's clear Eve's Cathars have never had a patrol enter the tunnels and survive.
+- We eventually arrive at an iron-framed wooden door.
+	- Pony knocks and says we were sent by Cheryl and Jonas
+		- "What did they send you for?"
+		- "We're gonna kill the Cardinal!" Lark shouts
+- They let us in and direct us to the tavern further down.
+	- There are people wearing stolen armor of Cathars
+	- We walk down to the tavern.
+	- People within the tavern are generally working, except one with a wide-brimmed hat who seems to be mostly chilling at the bar
+	- Pony sidles up to the nearest guard to ask about that guy.
+		- He's told he's new and from Bastle -- fought off some amalgamation with one bullet.
+	- I look for pecking order.
+		- There's a table where someone is being passed most of the papers.
+			- This person has a well-maintained, well put-together set of armor -- the best of everyone here.
+- Slim Jim walks to the bar.
+	- Someone accosts the new/resting person. He gives them a side eye and they back down... "whenever you finish up, get back to work"
+	- Slim Jim sits on a high stool next to this person.
+	- Jim asks about how to get a drink around here -- is told that it's basically self serve. Jim wants milk but is met with the fact that they don't really have it.
+	- Jim drinks some whiskey -- doesn't like it.
+- Pony walks up with Lark and Arnold
+	- Pony sits next to the stranger at the bar. Offers his "good stuff" to the stranger.
+	- The stranger gladly takes it, and drinks it with no discernable reaction.
+	- Lark tries to impress the stranger by faking drinking Pony's flask, audibly glugging. It doesn't work.
+	- Lark asks him if it's the Chrono Kid.
+		- He says that's one of the names he's been called.
+		- Lark tries to get the Chrono Kid to fix his time loop.
+		- It seems that the stranger is telling the truth that he thinks he can fix it.
+		- The Chrono Kid is movie-star hot.
+		- Lark spills Pony's business, notably about how he gets jealous about Arnold talking with other men, and pointedly asks if Pony is an asshole.
+		- He asks if they want an autrograph.
+		- The group currently around him keeps pressuring him to help with Lark's time loop. He gets fed up with them, talking about how he's here to help the people he promised to help and not just Lark. He stands up and starts to walk away.
+	- Lark announces to the entire tavern that he intends to kill the Cardinal and needs the Chrono Kid for help with his own time loop.
+		- Nobody pays it any real mind.
+	- Pony walks up to the Kid and apologizes. The Chrono Kid intends on finishing his work before helping with anything else.
+- Fineas begins talking to Ainsley, the well-armored individual at the center of it all.
+	- Fineas starts asking for information. He learns that they don't have any Cathars armor in circulation, but that they get them often through raids.
+	- He learns that the Cardinal resides in the central mansion in the original district.
+	- He asks about Maisie Penn and immediately raises alarm. He struggles through talking them down a bit, but eventually they become really agreeable towards the group after he mentions that the party burned the tents outside of Beatstone.
+	- The rest of the group saunters over and introduces themselves.
+- We are shown to our quarters.
+	- Pony and Lark crawl into bed together and try to get some alone time together.
+	- Lark is being a nuisance. He eventually ends up in a hit-off against Slim Jim. Lark butts him with his dagger's pommel, dealing a load of damage. Slim Jim smites him back with the butt of his maul.
+		- This creates a thunderous boom which sends Lark flying.
+	- In the middle of the night, a group of people shuffles into the room.
+		- It's the guy from ealier who was giving the Chrono Kid a hard time, with a pillow full of bricks, muttering under his breath about the Kid.
+		- The guys gather around the bed and ready to hit. Jim causes sparks to distract them, giving them disadvantage. The attack misses.
+		- The Chrono Kid mutters something under his breath and loud sound tshhh sound happens. The group takes thunder damage.
+		- The Kid forces one of them who almost made it to fall back into it.
+		- "Well boys, what did we learn here today?"
+	- Slim Jim enters a half-dreaming state.
+		- The twisted entity that is the rest of Jim's form enters his view.
+		- It tells Jim that Eve has not visited the world millennia, that she left at the conception of the world.
+		- Jim asks if the Chrono Kid guy is "legit"
+			- He is one of many
+		- Is he like us?
+			- In what way?
+				- Is he godly?
+					- No. He is mortal.
+		- Is it true he can stop time loops?
+			- He does not know.
+		- This place has a lot of void energy. Any hotspot to be aware of?
+			- They want to use some power to take over the world.
+		- Is there any way to stop them?
+			- Burn it.
+				- The whole city?
+					- No... well...
+			- The Cardinal is more than mortal.
+				- Is he like us?
+					- He is close.
+				- Does he have a weakness?
+					- Not one that can be reached from here. It can be found in Darton.
+				- Are we able to kill him now?
+					- Possibly.
+		- What lies in Darton? How to get there?
+			- Doesn't know.
+			- This space...
+			- There are many beings here. They are all unable to see what I've seen in Darton.
+		- Do you know who can see in Darton?
+			- Not one that I can speak to.
+		- How you been?
+			- Impatient. The dream ends.
+- It's the next morning.
+	- Jim wakes Lark and tells him the Chrono Kid is lying about fixing the time loop.
+	- Everyone wakes while they talk loudly.
+	- Jim recounts what he heard in the dream, more or less.
+	- More conversation
+- Jim & Lark decide to do some scouting with the aid of a stopwatch from Pony to ensure that Jim doesn't outlast the disguise.
+	- Jim is disguised as Lark but without burn scars; together they are Lark and Clark.
+		- Scratch that, Fineas and Mickey
+	- They make it to a market
+		- Lark sees milk... "Slim Jim- I mean Fineas! Look!"
+			- Some Cathars nearby hear this and note it down, then approach the pair.
+			- The Cathars roll a nat 1 and fully believe this.
+			- They buy some milk and try to get a quest from an old man
+			- Lark pays the old man a single copper to point towards the mansion district
+- We cut back down in the tunnels. Pony, Arnold, and Fineas are searching for armor and things.
+	- Pony and I walk off to find Ainsley. She's in a war meeting.
+		- We end up interrupting them a few times until Fineas wrangles Pony into staying silent to the end of the meeting.
+	- They have two sets of armor, not in great shape.
+	- Pony pulls some snake rocks out of the bag.
+	- After Pony keeps being a little manic, Ainsley eventually gets fed up and puts Pony in his place. She eventually leaves and Devon brings us some armor.
+	- The armor given to Fineas is mechanically studded leather, 13 + DEX = 14 
+		- No face covering
+- We cut back to the surface
+	- The pair sets up to make it look like Lark is having convulsions and a symbol of Eve's Cathars appears on his forehead so that they can request to be brought to Maisie
+	- They enact the plan and it seems to work initially. A patrol nearby jumps into action and binds the arms of Lark. They rush them into one of the mansions
+	- Maisie is busy, but the Cardinal is able to help them out.
+	- The room goes cold as the Cardinal enters.
+		- He recognizes Lark immediately.
+		- Slim Jim cuts Larks ropes.
+		- The cardinal tries to stop them in their tracks. Lark makes it out unscathed, but Jim takes 32 damage, half necrotic, half fire.
+		- Lark tries to lock a disk on the Cardinal, but he bats it out of the air and it returns.
+		- Jim tries to command the Cardinal to flee, but fails.
+		- The Cardinal compels a duel with Jim
+		- Lark breaks the Cardinal's concentration, freeing Jim
+		- Jim continues to run, and is popped into another plane of existence.
+			- He is in his native plane. He sees his owners, a housecat, and a formless being floating in endless space. He is just consciousness.
+		- As Slim Jim's consciousness begins to split, he is last minute able to pull himself together.
+		- Lark trips the cardinal. Jim smites him.
+		- The Cardinal hits Jim with another damage-dealing spell from his light-based staff, knocking him prone and bringing him to his last legs.
+		- Lark throws a disk onto the Cardinal, disspelling his magical weapon and granting Lark a portent roll (if he gets it back).
+		- Jim heals more and tries to run.
+		- The Cardinal tries to do this destructive wave again. He takes damage from the disk. Jim succeeds the save this time, taking half damage and not being knocked prone. He takes enough damage to knock him.
+		- Lark shoots the Cardinal, tripping him.
+		- 5 soldiers move into the space, 50-80 ft from Lark. Priests enter as well. A total of 9 low-level enemies join the Cardinal
+		- Lark asks the Cardinal to "disregard" him, as on the assassination order list.
+			- Cardinal replies that it's a fair request, then tries to command Lark to flee and succeeds.
+		- Lark is forced to move 90 ft away from the Cardinal, taking his disk back.
+		- The soldiers and priests stream in. The priests heal the Cardinal.
+		- The Cardinal moves to stabilize Jim. Succeeds.

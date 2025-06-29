@@ -1,0 +1,272 @@
+---
+tags:
+  - campaign
+  - session
+---
+
+Campaign: [[First Campaign]]
+Setting: [[Bleakburgh]]
+
+Previous Session: [[2025-01-11]]
+Next Session: 
+
+- We stand at the entrance of a mouth of stone stepping down -- we're in a flat desert region
+	- A stone eye awakes and pushes itself out of the cave with a crackle of stone
+- As Fineas approaches, it steps back to keep us all in view
+- Lark notices that the creature is behaving not unlike Mary & Shelley do when asked -- it's like an animal, but it isn't want to kill us this instant. Some constraints prevent it from licking its chop
+- Pony tries to message it while Lark tries to tempt it with dried meat.
+- It takes a slim jim, and we approach the stairs
+	- We feel the weight of this thing's glare oppressing us, preventing excessive movement
+	- I feel compelled to raise my pickaxe, but this angers the beast and the party gets me to drop the pickaxe
+- Us all dropping our weapons noticeably helped
+	- Fineas keeps the bag with the hand in it attached to the belt, as well as a light hammer thanks to the creature rolling a Nat 1
+- Lark presents a disk to the thing. The creature appears pleased while it looks at it.
+- We make it 10 feet in and a wall of stone begins to trap us in.
+	- Runes on the edge of the cave glow a faint blue.
+	- Friedrich can't read the runes, but he notes that the Tokwa perform sigil-weaving. The language has only been taught a few times, always to catastrophic results (the settlers). The Tokwa believed this was a gift from the gods to allow them to survive in Bleakburgh.
+- I touch the wall, and various scribbles light up and form into a birdcage symbol. I don't know what this means.
+	- Slim Jim follows me -- a cat toy symbol.
+	- Pony follows -- an alchemist's flask.
+	- Lark follows, closes his eyes -- a sideways hourglass.
+	- I place the hand against the wall, it turns slightly green, and a worker's cap symbol appears
+	- Arnold follows -- horns
+	- Friedrich -- a "zeppelin"
+	- All of these symbols -- the necessary etching predates all of us
+- A rumbling starts, and the wall lowers.
+	- 6 separate tunnels, aligned with our symbols
+	- As we discuss walking down others' tunnels, the chamber rumbles. Fineas leads walking down his tunnel.
+	- While Fineas walks, the others discuss morals and get Lark to not steal Friedrich's notes. More people commit to their tunnels.
+- Lark walks down his tunnel muttering to himself. He doesn't notice it widen into a chasm.
+	- A form passes in front of him in the dark. He tries to sense its movements in the stone, and is met with nothing through the stone and a gust of wind.
+	- He notices he has lost the tunnel behind him.
+	- It asks "What is fair, Lark?"
+	- > "Are you gonna be like, Lark, you must become a better person"
+	- "That's not something I can force you to do."
+	- Some parts of the thing are bird-like, it says.
+	- It claims it will hurt Lark depending on what he does.
+	- "Your primary goal is to be reunited with (the group)?"
+	- > "Yeah because I'm their leader"
+	- "What leadership have you shown?"
+	- > Walk in front, tell them what to do -- "The same is true of a dictator"
+	- "Always humor"
+	- "I would ask you a question, Lark" - "Do you trust them with yourself?" -- "with how you authentically are?" -- "Have these people earned your vulnerability?"
+	- > "No, I can't let them know I'm afraid of turtles"
+	- The floor resonates as Lark told a lie
+	- "This is not what you're most afraid of."
+	- The creature shows Lark his dead family members and asks who they remind him of.
+	- "What was your mother like?"
+	- > "She was... nice? And had bro- black? hair. And had... I don't know."
+	- Lark realizes the shadow that was conjured closely matches his memory of his mother. That what he remembers after so long is almost an outline.
+	- "If she met you now, who would she be meeting" -- "what would she think?"
+	- It shows Lark all of the violence that he had committed.
+	- "Would she describe you as trustworthy?"
+	- > "I wouldn't tell her" -- "80\% of the time it was in self defense"
+	- Much of the images flicker away and it still looks bad
+	- Lark tries asking "What's blank" for everything, and the thing just shows Lark evidence of his own perceptions
+	- ROTATION 2:
+	- >"This is really mean... why are you doing this?"
+	- >"Hey do you know about these?" holds out disk
+		- it flies off into the darkness, and does not recall.
+		- >"Dude that's so fucked"
+	- Lark goes on a tirade about how he's learned his lesson and how he's gonna walk forward and not be killed.
+		- He believes better leadership stuff. He doesn't believe the less killing and so on to the same extent, though he's been opened to a new perspective.
+		- > thinking, if I become a better leader, then they won't leave me
+		- This thing isn't trying to make you realize anything in particular.
+	- "I'm not the one who decides what you go through here"
+		- Lark thinks very hard about getting his disk back.
+			- He questions to himself why he needs the disk.
+			- He tries to reason with himself why he wants it.
+				- The void tooks what he cares about, and the disk keeps the void away.
+		- Lark begins walking in a direction, but feels a pull in a direction. He walks that direction.
+- Fineas
+	- The tunnel twists and turns
+	- I notice that this tunnel has no support beams, but it feels as though the earth opened up, not that it was carved. Naturally formed. Suddenly notice wooden support beams, ore veins mined, I think I hear something.
+		- The sound is breathing just over my right shoulder. I turn around slowly with the beam,
+		- I see a familiar, sunken face. The person is missing an arm. Eyes are dehydrated, it says my name.
+		- There's a train of heads over shoulders past the foreman.
+		- There's a broken bird cage. It looks a lot like Beatstone.
+		- I take out the hand and try to speak with dead.
+			- None of these people are actually. There's a low rumble that sounds like laughter.
+		- "Very perceptive"
+		- I put the hand away and walk past.
+			- The voice discusses the harm caused, whether I made amends with them. I point out that I gave Carla a little serenity in her last moments.  It asks what she did to deserve it. The voice points out a man in Greenfang I killed and asks why -- we did what we had to to survive. I take his hand.
+		- I get a flash of images like the mushroom but without want.
+			- From the eyes of this man, the embrace of a child,
+			- laughter around a warm fire,
+			- all of the horrific things that had to be done to keep Betsy alive,
+			- the discomfort with it. Feel the resignation of what one must do to survive.
+		- The voice tells me I've got a piece missing, but it isn't its place to give it back to me.
+	- RUN 2
+	- Fineas walks further down the tunnel, a bit miffed about not being given an answer.
+	- He feels a pull similar to the mushroom and hear a voice.
+		- "Ah. You've paid a great and terrible price for knowledge."
+	- Fineas doesn't verbally acknowledge, but shifts towards the pulse.
+		- Fineas is pulled towards the pulse, but the space opens up into the cavern.
+		- There's a woman in the field of bodies.
+		- A voice says "what would you give up to know what you lost?"
+	- The pull towards the mushroom -- the space feels almost more real than the memory
+	- I look overmy shoulder, and the woman is no longer there, but there is Lark running through to come get me. I see myself at the stalk of the mushroom, and the others are around.
+		- "I cannot bring you back to it. But I can alter what as been?"
+	- I could impact the thoughts of my past self.
+		- On an insight roll of 27:
+			- I don't remember what I lost, but I remember what I thought when asked a very similar question. I am granted the word I answered with:
+				- sister
+			- I offer memory of my father in Sundance.
+				- The area feels as though it smiles.
+				- I remember my sister.
+					- I remember someone who recognized me: she was with the Cathar's in Beatstone.
+					- In my visions of Silverton, I see her preaching at masses.
+					- She doesn't seem militant, but seems that she has found something that calls to here.
+					- There is still care for me present within her.
+				- I lose memories of my father.
+		- Something about the mushroom before me is both afraid and angry that I averted its price. I am not at odds with it, but more in tune. I get more of Fineas back.
+		- I follow a tug that seems like it would lead me towards my sister.
+- Slim Jim
+	- Slim Jim chases a shape down the tunnel.
+	- He realizes the tunnel around him is changing.
+	- Jim sees a door and tries to open it. He touches the doorknob, and touching it seems strange.
+	- Sees two people lovingly playing with a small cat beside a fireplace.
+		- He gets really excited and tries to get them to play with him as well. They don't respond or even acknowledge.
+		- "They can't hear you. This isn't happening."
+		- "This is a memory. You already lived this."
+	- Can see the faces of his owners, which he hasn't seen for very long.
+	- He realizes the small cat on the rug is how Slim Jim originally was, hence the odd feeling grabbing the doorknob.
+	- There is a difference between what Jim wanted then and what he's capable of wanting now.
+	- > "Do you know what I am?"
+		- The creature can't say definitively. There are parts only Jim can answer.
+	- Jim feels special -- always have been always will be.
+	- Slim Jim feels like he just wants to be a little guy again.
+	- Jim realizes that some of the self love he feels is chosen by the people who take care of him -- that it doesn't come from himself alone. It comes from the owners.
+		- Some of this comes from owner's memories prior to when Jim even existed as a regular cat on a rug.
+	- There is a flicker of the current state of the owners, melded together and with catlike features.
+	- ROUND 2
+	- There is a fourth entity, from beyond this space, which has made the melding with the owners possible.
+		- Part of this, whether on purpose or not, is within Jim.
+	- It is hard to tell where Jim ends and the fusion begins.
+	- Megan -- the way she appears and the space she returns to -- Jim is familiar with that space based on the 4th entity.
+	- The entity that melded them was ultimately uncertainty what it wanted to be.
+		- Manifested in Slim Jim, and Jim perceives for the first time that he is something that comes from the void
+	- The reason Jim has been wandering how he has is that the being that's in the void has been trying to figure out what it is.
+		- Jim, the Owners, and the 4th entity are all basically one form in different spaces.
+	- Slim Jim has memories of the night where something happened from the fireplace, from the perspective of himself and the owners.
+		- To communicate with the entity, Jim would simply be talking to themself
+		- So he does
+	- Slim Jim named himself.
+	- Slim Jim's passage over the threshold was seeing the owners playing with the cats and wanting so bad to be with them.
+	- Offered to Jim that he may return to us with his new understanding.
+- Pony
+	- Pony's stone sputters out and he's left in darkness.
+	- His flask begins to feel warm, heating to a glow. He throws it and a blinding white light surrounds him. He's thirsty and itchy and needs to sleep but couldn't if he tried.
+	- Pony is nauseous and shaking and the flask is gone.
+	- Slowly it seems that Pony is wandering in sand with the sun directly above.
+	- "How unpleasant."
+		- Source of the voice unknown.
+	- The desert is unlike what he's known. It's just sand in all directions.
+	- > "Who's there!"
+	- Pony tries to drink some water. It is sand.
+	- "So angry. Why are you so bitter, Pony?"
+		- >"Look... I've had enough therapy."
+		- "What do you think I'm here to do."
+		- >"So far, you've stolen my liquor and my water, and my arm's gone. I thought this might be therapy."
+		- "For all your shortcomings, you were honest. For one so prone to violence, it was kind to leave your security at the door."
+		- "What would you do if you were made to wander like this forever?"
+		- >"Not much of a choice but to wander."
+	- Pony's hands dry and its viscerally uncomfortable when they touch.
+	- >"What do you want from me?" his mouth splits at the corner.
+		- "Why do you drown yourself in this way?"
+		- >"Y'know, it... I feel like drown is a strong word."
+		- "is it because of her?"
+	- Somebody (seeming to be his dead wife) faces away from him in the distance.
+	- "There is much bitterness and guilt in you. So many questions, the last of which asks for her forgiveness? Her approval? Something she cannot give you from where she is."
+	- Pony walks towards the woman and child -- they appear as though mirage.
+		- >"Josephine... Annie, please..."
+		- Pony sees the profile of Annie's face turn, before Josephine places a hand and turns her face.
+	- "Who were you to them? Is this the picture of Pony now?"
+		- A pool forms, giving Pony a look at his reflection.
+		- He tries to drink the water. It feels like the first glass of water at 3am.
+	- Pony feels a weight of stillness which Pony feels he hasn't had for a very long time.
+	- ROUND 2
+	- There is a before and after in Pony's life.
+	- Pony feels as though he was forced to build his weaponry and so on.
+		- As though much of the world has happened to him. At least since losing his wife and daughter, there has been very little choice.
+	- Pony feels as though past attempts by others to comment on his drinking was arbitrary
+		- Now, he sees that there was a numbness
+		- He realizes he's beginning to care what's happening with Lark. He feels that it's more like a found family relationship and not just a companion.
+		- Pony feels as though it's possible his family wouldn't forgive him for moving on.
+	- In then understanding of change not being wrong, the voice says "For what was it that you think they blamed you?" and the two he saw then turn around
+		- Pony expects anger, but sees a softness in their eyes.
+		- There's an understanding that they know Pony would have never chosen the current state of things.
+	- "The future has not yet unfolded. No one can truly change the past. Not without memory of what has occurred. The only moment that truly exists is the present."
+- The tunnels converge at the other end.
+- There are three disks stacked that look like turbines, made entirely of stone. They look capable of movement.
+	- Behind it, a massive towering figure by the far wall of a feline structure with splayed wings, appearing carved into the wall.
+	- Its eyes are glowing. It appears alive, but it does not have organic movement.
+	- The voice was clearly coming from this.
+- Lark genuinely hugs Friedrich
+- Pony notices Arnold has been looking at him, smiling though a bit pained, since he left the tunnel.
+- "Now you all stand more truthfully before me. What is it you would ask?"
+	- Lark asks for his disk back. It is returned. It's the one with the strand.
+		- It glows. The strand unravels, unspools from it, and the imagery in it plays:
+			- Picture of Sundance. It's the mentioned couple having the same interactoin every morning.
+			- "Wouldn't you like to let them have the rest of their day?" to Lark
+				- Lark tries to get his own time loop fixed. It's not the memory captured. It can't be helped.
+				- Lark decides to let them go.
+		- The disk opens up and begins spinning, cylinder-like, and a grinding sound emits while the other larger ones begin to join.
+			- They have greater stacks than the disks Lark had.
+			- Lark's original understanding was that the disks nullified things.
+				- "This was constructed as a place of restoration. A place of return. A place of regrowth."
+				- The ability on the disks will change:
+					- Whenever Lark encounters something that needs to be corrected, when the disks take from them, Lark can make a Portent roll to store.
+					- They apply to anybody's rolls.
+- "You hail from a strange land" towards Friedrich.
+	- "You come here with a catalog of secrets, that you would bend to your will."
+	- > "Only for academic research. For the benefit of my people."
+	- It turns towards him.
+	- He tries to reason with it.
+	- "There have been many before you who have claimed such things. These things do not speak to balance."
+- Jim sees Friedrich fiddling with a device behind his back, as does the Sphynx.
+	- Friedrich presses a button, and an alarm sounds. A language we don't recognize emits from the speaker.
+	- In the instant he touches the button, a lance of blue light goes through his chest.
+	- "Restoration sometimes means removal."
+	- He is cleaved in two.
+- Pony understands some numbers from the device.
+- "He did not meet the same realization that you all did."
+- Lark starts stomping on Friedrich's head, Pony pulls him away, but he uses his Portent roll to deny it.
+- The group as a whole takes Lark away.
+- I speak with Friedrich -- his last thoughts play.
+	- From the beast, a memory: "In the face of all that you've seen what does it mean for you to be a man of science?"
+	- Unearthly horror accompanies,
+		- Complete shattering of Friedrich's reality.
+- We exit, the door closes behind us.
+- The stone cat becomes tense and looks up as we notice the zeppelin far away.
+- We decide to ride towards Silverton
+	- We pass Sundance. We know they have artillery. They shoot towards the zeppelin.
+	- The artillery disappears into an anomaly and hits elsewhere.
+	- Gatling gun fire hits Sundance as the zeppelin turns towards the town.
+	- As it hovers over Sundance, pillars drop down. They cause mile-wide shockwaves.
+- Fineas has not read about a nation with the ability to fight a war in the air.
+	- Pony knows that the zeppelin doesn't know anything Friedrich has learned so far.
+- We understand that we're at a pivotal moment in the region's history, and seeing the military attempts to conquer this Void, we understand the Cathar's reasoning slightly better.
+- We ride until dark, and then take watch.
+	- Lark takes first watch. Doesn't really register what's happening.
+	- Lark wakes Arnold. Uneventful.
+	- Arnold wakes Pony. The explosions and gunfire stop on the horizon. The flood light goes out on the zeppelin.
+	- Pony wakes Fineas. With information relayed, I see that the gunfire ceased. Wind picks up. A massive gust blows past me. The zeppelin heads straight south past us. The zeppelin staff survived and is returning to Evaweide.
+- Looking through the spyglass, Pony looks towards Sundance. Debris is scattered about Sundance. The walls appear to be mostly up. The peak of the library appears to still be up.
+- Traveling towards Silverton, we know we're close to Clearstead looking at the map.
+	- We decide not to veer off
+- The next night after traveling, we see another campfire far away. Pony and Jim can see that the camp is just another group.
+	- Lark sneaks away from the group, and grabs the person watching for the camp and demands food. Nat 20 on sneak & intimidation in this process. Pony has readied a spell for when he becomes visible.
+	- Pony decides to leave 2 fake gold as an apology, though the camp thinks its involved with Lark directly.
+- Lark gives out the stolen rations. Fineas hands it back, voices his disappointment, and saddles on back.
+- Pony and Arnold discuss the kid.
+- We approach Silverton.
+	- It is silent and still, and sprawling with no walls. Many structures remain completely intact and lit by torches. Patrols walk and gather throughout the settlement.
+- The party watches the town. Patrols pass at equal distance from one another, set intervals. Half hour between patrols passing a point, but they'd definitely see horses if we just rode in.
+	- Lark continues to ride towards. Slim Jim gets Clyve to stop, but Lark gets off and keeps walking. Pony zips him back and holds him.
+	- Even before people told him, he knew the Chrono Kid wasn't real, it was just something tangible to hope for.
+	- The group has a talk with Lark trying to get him to see that we won't leave him.
+	- Lark rolls out his bedroll.
+- WE LEVEL UP TWICE
+	- Can do 1 SP to 2 stats, 2 to 1, or Feat
+		- Should reflect a way the character has grown
