@@ -9,6 +9,8 @@ Setting: [[Great Cactus Forest]], [[Greenfang]]
 This session is the first in this campaign.
 Next Session: [[2024-10-05 Two Rows]]
 
+# Synopsis
+
 [[Pony Harrigan]] and [[Fineas Penn]] enter the [[Great Cactus Forest]] in search of some mysterious artifact. Pony had previously hired Fineas in the town of [[Sundance]] to aid in the finding of this item. While making their way through the cactus brambles, they sense a creature stirring. With Fineas sensing that it's somehow magical in nature, they give chase. Enter [[Slim Jim]], who also spots the creature and instinctively gives chase. Slim Jim and Fineas end up falling over as the creature reaches its owner, [[Lark]]. The creature turns out to have been a two-headed opossum-like pet named [[Lark#Mary and Shelly|Mary and Shelley]]. Lark passes out with exhaustion. Fineas and Pony decide to set up camp and get a full rest, while Slim Jim plays in the cacti. Time appears to have stopped in the dead of night. 
 
 A light becomes apparent on the periphery. This light is clearly arcane, but its nature is unattainable. As any member of the group approaches it, it sinks back into the brambles in equal measure. As the ground almost seems to slip from under them the longer they sit still, the group decides to follow the light to a clearing. They enter the clearing and approach the light in the center. Lark stays to the edge of the clearing.

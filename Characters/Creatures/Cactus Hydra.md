@@ -18,6 +18,7 @@ The Cactus Hydra was defeated in battle by [[Harrigan-Penn Party]] during the ev
 
 After the Hydra's death, the party reportedly was freed from any altered-time effects and was able to safely exit the Great Cactus Forest without further issue. It is unknown if the forest has remained in this neutered state.
 
-# Sessions Featured
+# Campaigns Featured
 
-- [[2024-09-28 Prickly Beginnings]]
+- [[First Campaign]]
+	- [[2024-09-28 Prickly Beginnings]]

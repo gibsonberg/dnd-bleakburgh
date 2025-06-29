@@ -10,6 +10,9 @@ Setting: [[Bleakburgh]]
 Previous Session: [[2024-12-19 In Passing]]
 Next Session: [[2025-01-11 Rocky Road]]
 
+# Synopsis
+
+A hooded figure spotted in the doctor's office slips into the crowd outside of the office unseen.
 
 - The hooded figure slips into the crowd outside of the doctor's office.
 - Fineas and Lark head towards the library with intent for lark to sneak in and find any texts on the Chrono Kid.

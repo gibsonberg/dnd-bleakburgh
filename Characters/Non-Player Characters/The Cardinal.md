@@ -4,7 +4,6 @@ tags:
   - non-player
 ---
 _he/him/his_
-**Campaign Featured:** [[First Campaign]]
 **Age:**
 **Race:** Human
 **Class:**
@@ -30,6 +29,8 @@ During the [[First Campaign]], The Cardinal was seen as the leader of a roving b
 
 \[ Brief description of important personal life events and character features ]
 
-# Sessions Featured
+# Campaigns Featured
 
-- [[2024-11-25 Religious Trauma]]
+- [[First Campaign]]
+	- [[2024-11-25 Religious Trauma]]
+	- [[2025-02-03 Meeting Resistance]]

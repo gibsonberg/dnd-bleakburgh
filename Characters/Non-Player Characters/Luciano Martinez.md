@@ -4,7 +4,6 @@ tags:
   - non-player
 ---
 _he/him/his_
-**Campaign Featured:** [[First Campaign]]
 **Age:** 37, approximately
 **Race:** Human
 **Class:** Bard?
@@ -30,4 +29,5 @@ Luciano Martinez was born and raised in [[Bastle]]. He has 12 nietos and close r
 
 # Sessions Featured
 
-- \[ Link directly to session document ]
+- [[First Campaign]]
+	- [[2025-05-11 Hole in the World]]

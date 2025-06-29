@@ -7,7 +7,6 @@ aliases:
   - Pastor Debby
 ---
 _she/her/hers_
-**Campaign Featured:** [[First Campaign]]
 **Age:**
 **Race:** Human
 **Class:**
@@ -31,6 +30,7 @@ Deborah Jackson is a black woman and very well-kept compared to the usual inhabi
 
 \[ Brief description of important personal life events and character features ]
 
-# Sessions Featured
+# Campaigns Featured
 
-- \[ Link directly to session document ]
+- [[First Campaign]]
+	- [[2025-05-11 Hole in the World]]

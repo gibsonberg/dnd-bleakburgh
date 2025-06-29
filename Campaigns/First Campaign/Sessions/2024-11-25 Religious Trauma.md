@@ -10,6 +10,8 @@ Setting: [[Bleakburgh]]
 Previous Session: [[2024-11-09 Connections]]
 Next Session: [[2024-12-01 Regression]]
 
+# Synopsis
+
 [[Harrigan-Penn Party]] exits the cave containing the [[Mushroom Idol]] in [[Beatstone]], the tunnels collapsing behind them. As they emerge, the group is met by a party of [[Crusaders of Eve|Eve's Cathars]] wearing all-white and gas masks. One of them says [[Fineas Penn|Fineas']] name, but when questioned by another if they recognize him, they slink back and deny it. The group is put in manacles, stripped of any immediately-recognizable weapons, and lead to one of the towers on the west side of the town, which is surrounded by tents.
 
 [[Harrigan-Penn Party]] is brought into the main tent, and the interior is very ornate. Chandeliers are somehow hung within it. The group is brought in front of [[The Cardinal]] and compelled to kneel. Fineas notices [[Right Chaplain|the chaplain]] to his right is fiddling with their thumbs and looking at him -- clearly, they know Fineas. [[Lark]] spills the beans on the existence of the [[Cow Creature]] in [[Greenfang]], and he and [[Slim Jim]] are led off to another tower to be imprisoned for the time being. [[Pony Harrigan]] and Fineas remain in the tent, and are told that they might be given forgiveness if they give up their former lives for the [[Crusaders of Eve]]. Fineas reveals that the [[Mushroom Idol]] could compel his mind to some extent. After much deliberation, they accept, expecting to be stripped of their possessions in that very moment, but instead are first brought towards a second tent.

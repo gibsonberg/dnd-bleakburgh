@@ -15,8 +15,8 @@ The current state of the Cow Creature is unknown. It is posited that the [[Crusa
 
 The group harvesting resources from the Cow Creature appear to be wearing industrial clothing with clear hierarchical designations.
 
-# Sessions Featured
+# Campaigns Featured
 
-- [[2024-10-05 Two Rows]]
-- [[2024-10-19 Low Bar]] (discussed)
-- 
+- [[First Campaign]]
+	- [[2024-10-05 Two Rows]]
+	- [[2024-10-19 Low Bar]] (discussed)

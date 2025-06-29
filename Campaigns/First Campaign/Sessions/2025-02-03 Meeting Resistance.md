@@ -10,6 +10,8 @@ Setting: [[Bleakburgh]]
 Previous Session: [[2025-01-26 Hospitality]]
 Next Session: [[2025-02-10 Sewer Run]]
 
+# Synopsis
+
 - We open still in the home of the Authors
 - Lark rifles through chests, taking poison damage from a trapped drawer. Within it is a wealth of research.
 	- It seems the Cathars returning groups figuring out which phenomena are from void energy, sifting through them for their own uses

@@ -3,16 +3,14 @@ tags:
   - character
   - non-player
 ---
-![[newchar.jpeg|400]]
-_pronouns_
-**Campaign Featured:** 
+_he/him/his_ (Jonas Finnegan)
+_she/her/hers_ (Cheryl Still)
 **Age:**
 **Race:**
 **Class:**
 **Alignment:**
 
-\[ Brief description blurb about the character ]
-
+Jonas Finnegan and Cheryl Still are the authors of "A Brief History of Darton and its Impacts on the Modern World," an academic history of the events of Darton's recent history. They reside in [[Silverton]] and aided the [[Silverton Resistance]].
 # Campaign Events
 
 \[ Brief summary of changes to the character/their involvement as a result of the events of the campaign in which they are featured ]
@@ -20,7 +18,7 @@ _pronouns_
 # Appearance
 
 Cheryl Still sounds like a Minnesotan, has many laugh lines, is older, etc.
-Jonas Finnegan (Jonah?) is an older man, a little bit deaf.
+Jonas Finnegan is an older man, a little bit deaf.
 
 # Equipment
 
@@ -30,6 +28,10 @@ Jonas Finnegan (Jonah?) is an older man, a little bit deaf.
 
 \[ Brief description of important personal life events and character features ]
 
-# Sessions Featured
+# Campaigns Featured
 
-- \[ Link directly to session document ]
+- [[First Campaign]]
+	- [[2024-12-29 Best-Laid Plans]] (mentioned)
+	- [[2025-01-26 Hospitality]]
+	- [[2025-02-03 Meeting Resistance]]
+	- [[2025-03-24 Goodbyes]]

@@ -10,6 +10,8 @@ Setting: [[Bleakburgh]]
 Previous Session: [[2024-12-29 Best-Laid Plans]]
 Next Session: 
 
+# Synopsis
+
 - The group races south until they practically collapse from exhaustion about 7 miles from the city. We immediately long rest
 	- Lark watches first, uneventfully
 	- Looking around on my watch, the glow surrounding most of us has faded slightly but its still a bit brighter.

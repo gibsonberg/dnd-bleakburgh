@@ -4,7 +4,6 @@ tags:
   - non-player
 ---
 _he/him/his_
-**Campaign Featured:** [[First Campaign]] 
 **Age:**
 **Race:** Human
 **Class:**
@@ -28,6 +27,8 @@ Billy Brigg carries a razor with him at all times. He is in possession of the [[
 
 Billy Brigg followed [[Alistaire Hayes]] into Bastle seeking retribution for Alistaire's debts towards the gang incurred in [[Arulon]].
 
-# Sessions Featured
+# Campaigns Featured
 
-- \[ Link directly to session document ]
+- [[First Campaign]]
+	- [[2025-05-11 Hole in the World]]
+	- 

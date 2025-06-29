@@ -10,4 +10,5 @@ Setting:
 Previous Session: 
 Next Session: 
 
+# Synopsis
 Description of session events here

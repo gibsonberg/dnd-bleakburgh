@@ -4,7 +4,6 @@ tags:
   - non-player
 ---
 _he/him/his_
-**Campaign Featured:** [[First Campaign]]
 **Age:**
 **Race:** Variant Human
 **Class:**
@@ -28,6 +27,7 @@ _he/him/his_
 
 \[ Brief description of important personal life events and character features ]
 
-# Sessions Featured
+# Campaigns Featured
 
-- \[ Link directly to session document ]
+- [[First Campaign]]
+	- [[2025-05-11 Hole in the World]]

@@ -10,6 +10,8 @@ Setting: [[Bleakburgh]]
 Previous Session: [[2025-04-06 Bugging]]
 Next Session: 
 
+# Synopsis
+
 - [[Bastle]]: a bunched together central town, with scattered houses around in classic spaghetti western town fashion
 - There's a man running towards us, arms flailing, seemingly directionless
 	- He's dressed in a nice cotton sunday suit, dusty and tattered now

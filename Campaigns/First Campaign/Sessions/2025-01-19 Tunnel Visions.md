@@ -10,6 +10,8 @@ Setting: [[Bleakburgh]]
 Previous Session: [[2025-01-11 Rocky Road]]
 Next Session: 
 
+# Synopsis
+
 - We stand at the entrance of a mouth of stone stepping down -- we're in a flat desert region
 	- A stone eye awakes and pushes itself out of the cave with a crackle of stone
 - As Fineas approaches, it steps back to keep us all in view

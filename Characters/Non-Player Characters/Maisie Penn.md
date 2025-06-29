@@ -4,19 +4,18 @@ tags:
   - non-player
 ---
 _she/her/hers_
-**Campaign Featured:** [[First Campaign]]
 **Age:** 23
 **Race:** Human
 **Class:**
 **Alignment:**
 
-\[ Brief description blurb about the character ]
-
+Maisie Penn is the sister of [[Fineas Penn]] and a member of the [[Harrigan-Penn Party]]. She was formerly a member of the [[Crusaders of Eve]].
 # Campaign Events
 
-\[ Brief summary of changes to the character/their involvement as a result of the events of the campaign in which they are featured ]
-
+Maisie Penn first met [[Fineas Penn]] outside of [[Beatstone]]; as the [[Harrigan-Penn Party]] was exiting the mines, she called his name. Later, as the party was being judged by [[The Cardinal]], she appeared to fidget while looking at Fineas.
 # Appearance
+
+While under the [[Crusaders of Eve]], Maisie wore their standard garb: robes and a gas mask.
 
 Wore a locket of our parents
 
@@ -28,6 +27,11 @@ Wore a locket of our parents
 
 \[ Brief description of important personal life events and character features ]
 
-# Sessions Featured
+# Campaigns Featured
 
-- \[ Link directly to session document ]
+- [[First Campaign]]
+	- [[2024-11-25 Religious Trauma]] (unknown identity)
+	- [[2025-02-10 Sewer Run]]
+	- [[2025-03-24 Goodbyes]]
+	- [[2025-04-06 Bugging]]
+	- [[2025-05-11 Hole in the World]]

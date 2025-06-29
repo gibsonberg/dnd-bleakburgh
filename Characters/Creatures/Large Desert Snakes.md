@@ -15,6 +15,7 @@ Large Desert Snakes form multiple-member colonies in shaded nooks within the des
 
 They don't appear to be actively hostile when not hunting, but are defensive when provoked.
 
-# Sessions Featured
+# Campaigns Featured
 
-- [[2024-10-19 Low Bar]]
+- [[First Campaign]]
+	- [[2024-10-19 Low Bar]]

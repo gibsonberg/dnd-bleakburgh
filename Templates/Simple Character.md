@@ -5,7 +5,6 @@ tags:
 ---
 ![[newchar.jpeg|400]]
 _pronouns_
-**Campaign Featured:** 
 **Age:**
 **Race:**
 **Class:**
@@ -29,6 +28,6 @@ _pronouns_
 
 \[ Brief description of important personal life events and character features ]
 
-# Sessions Featured
+# Campaigns Featured
 
 - \[ Link directly to session document ]

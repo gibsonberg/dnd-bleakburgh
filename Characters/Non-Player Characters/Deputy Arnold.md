@@ -5,6 +5,8 @@ tags:
 ---
 _he/him/his_
 
+TODO: BRING UP TO STANDARD TEMPLATE
+
 Arnold is the de facto deputy of [[Greenfang]] who regularly commands a small group of armed members of the [[Greenfang Patrol]]. He is subservient to [[Bertha]], though often appears to take on direct roles on her behalf throughout the town as she has so far been sleeping or busy when asked.
 
 # Campaign Events
@@ -25,11 +27,21 @@ Arnold holds an administrative role in Greenfang akin to a sheriff.
 
 Arnold is gay.
 
-# Sessions Featured
+# Campaigns Featured
 
-- [[2024-10-05 Two Rows]]
-- [[2024-10-19 Low Bar]]
-- [[2024-11-25 Religious Trauma]]
-- [[2024-12-01 Regression]]
-- [[2024-12-19 In Passing]]
-- 
+- [[First Campaign]]
+	- [[2024-10-05 Two Rows]]
+	- [[2024-10-19 Low Bar]]
+	- [[2024-11-25 Religious Trauma]]
+	- [[2024-12-01 Regression]]
+	- [[2024-12-19 In Passing]]
+	- [[2024-12-29 Best-Laid Plans]]
+	- [[2025-01-11 Rocky Road]]
+	- [[2025-01-19 Tunnel Visions]]
+	- [[2025-01-26 Hospitality]]
+	- [[2025-02-03 Meeting Resistance]]
+	- [[2025-02-10 Sewer Run]]
+	- [[2025-03-24 Goodbyes]]
+	- [[2025-04-06 Bugging]]
+	- [[2025-05-11 Hole in the World]]
+	- 

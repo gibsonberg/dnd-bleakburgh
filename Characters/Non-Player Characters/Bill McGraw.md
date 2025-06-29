@@ -4,7 +4,6 @@ tags:
   - non-player
 ---
 _he/him/his_
-**Campaign Featured:** 
 **Age:**
 **Race:**
 **Class:**
@@ -28,6 +27,6 @@ Bill McGraw is a major historical figure in [[Bleakburgh]]. He is said to have c
 
 \[ Brief description of important personal life events and character features ]
 
-# Sessions Featured
+# Campaigns Featured
 
-- \[ Link directly to session document ]
+- [[First Campaign]] (mentioned)

@@ -4,7 +4,6 @@ tags:
   - non-player
 ---
 _she/her/hers_
-**Campaign Featured:** 
 **Age:**
 **Race:**
 **Class:**
@@ -28,7 +27,8 @@ Annabella Monroe is the de facto mayor of [[Sundance]]. Annabella is widely reno
 
 \[ Brief description of important personal life events and character features ]
 
-# Sessions Featured
+# Campaigns Featured
 
-- [[2024-10-05 Two Rows]] (mentioned)
-- [[2024-10-19 Low Bar]] (mentioned)
+- [[First Campaign]]
+	- [[2024-10-05 Two Rows]] (mentioned)
+	- [[2024-10-19 Low Bar]] (mentioned)

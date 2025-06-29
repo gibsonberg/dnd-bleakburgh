@@ -4,7 +4,6 @@ tags:
   - non-player
 ---
 _he/him/his_
-**Campaign Featured:** [[First Campaign]]
 **Age:**
 **Race:** Human
 **Class:**
@@ -22,4 +21,5 @@ Jacob Gulley was the local doctor of [[Beatstone]]. His son was the first to dev
 
 # Sessions Featured
 
-- [[2024-11-09 Connections]] (mentioned by Carla)
+- [[First Campaign]]
+	- [[2024-11-09 Connections]] (mentioned by Carla)

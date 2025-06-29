@@ -20,4 +20,6 @@ The Silverton Resistance actively works to overthrow the authoritarian rule of [
 # Campaigns Featured
 
 - [[First Campaign]]
-	- 
+	- [[2025-02-03 Meeting Resistance]]
+	- [[2025-02-10 Sewer Run]]
+	- [[2025-03-24 Goodbyes]]

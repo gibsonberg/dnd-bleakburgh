@@ -4,7 +4,6 @@ tags:
   - non-player
 ---
 _he/him/his_
-**Campaign Featured:** [[First Campaign]]
 **Age:**
 **Race:** Human
 **Class:** Bard
@@ -28,6 +27,7 @@ Freddy Faazbare is a popular musician from [[Sundance]]. Faazbare perished in th
 
 \[ Brief description of important personal life events and character features ]
 
-# Sessions Featured
+# Campaigns Featured
 
-- [[2024-12-19 In Passing]] (mentioned)
+- [[First Campaign]]
+	- [[2024-12-19 In Passing]] (mentioned)

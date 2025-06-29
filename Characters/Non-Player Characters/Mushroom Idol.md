@@ -3,8 +3,6 @@ tags:
   - character
   - non-player
 ---
-**Campaign Featured:** [[First Campaign]]
-
 The Mushroom Idol is a large, sentient, fungal being found in a deep chamber within the mines of [[Beatstone]]. The spores of the mushroom appear to be the cause of the [[Beatstone Plague]].
 
 Touching the Mushroom Idol appears to allow at least some other beings to make contact with the Idol's intelligence. Though the mushroom doesn't speak any known language, through this method it is able to convey feelings, sentiments, and imagery to others.
@@ -24,6 +22,7 @@ The Mushroom Idol is a massive fungal growth attached to the back wall of a cham
 
 \[ Brief description of important personal life events and character features ]
 
-# Sessions Featured
+# Campaigns Featured
 
-- [[2024-11-09 Connections]]
+- [[First Campaign]]
+	- [[2024-11-09 Connections]]

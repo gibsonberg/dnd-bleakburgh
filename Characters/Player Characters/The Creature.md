@@ -5,7 +5,6 @@ tags:
 ---
 ![[newchar.jpeg|400]]
 _it/its/its_
-**Campaign Featured:** 
 **Age:**
 **Race:**
 **Class:**
@@ -29,6 +28,7 @@ Robed in plain, burlap-like cloth. No facial hair, just incredibly smooth, like 
 
 \[ Brief description of important personal life events and character features ]
 
-# Sessions Featured
+# Campaigns Featured
 
-- \[ Link directly to session document ]
+- [[First Campaign]]
+	- [[2024-12-29 Best-Laid Plans]]

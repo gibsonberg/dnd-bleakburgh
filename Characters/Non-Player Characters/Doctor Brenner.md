@@ -4,7 +4,6 @@ tags:
   - non-player
 ---
 _he/him/his_
-**Campaign Featured:** 
 **Age:**
 **Race:**
 **Class:**
@@ -30,4 +29,5 @@ Dr. Brenner is a psychiatrist (talkyfeelytrist) in [[Sundance]].
 
 # Sessions Featured
 
-- \[ Link directly to session document ]
+- [[First Campaign]]
+	- [[2024-12-19 In Passing]]

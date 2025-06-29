@@ -11,6 +11,7 @@ Basilisks are non-sentient creatures present in [[Bleakburgh]]. They are known t
 
 Basilisks do not appear to be sentient. They seem to hunt in small groups, preying on roving parties in [[The Desert|The Wastes]]. If looked upon, they can turn people into stone.
 
-# Sessions Featured
+# Campaigns Featured
 
-- [[2024-12-01 Regression]]
+- [[First Campaign]]
+	- [[2024-12-01 Regression]]

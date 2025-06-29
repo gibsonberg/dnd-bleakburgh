@@ -5,7 +5,6 @@ tags:
 ---
 ![[newchar.jpeg|400]]
 _pronouns_
-**Campaign Featured:** 
 **Age:**
 **Race:**
 **Class:**
@@ -29,6 +28,13 @@ woman 40s-50s, a little pudgy, burn marks on his arms
 
 \[ Brief description of important personal life events and character features ]
 
-# Sessions Featured
+# Campaigns Featured
 
-- \[ Link directly to session document ]
+- [[First Campaign]]
+	- [[2025-01-26 Hospitality]]
+	- [[2025-02-03 Meeting Resistance]]
+	- [[2025-02-10 Sewer Run]]
+	- [[2025-03-24 Goodbyes]]
+	- [[2025-04-06 Bugging]]
+	- [[2025-05-11 Hole in the World]]
+	- 

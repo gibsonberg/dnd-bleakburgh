@@ -3,12 +3,14 @@ tags:
   - campaign
   - session
 ---
-	
+
 Campaign: [[First Campaign]]
 Setting: [[Bleakburgh]]
 
 Previous Session: [[2024-10-19 Low Bar]]
 Next Session: [[2024-11-25 Religious Trauma]]
+
+# Synopsis
 
 [[Harrigan-Penn Party]] wakes up in their camp a few hours walk from [[Beatstone]]. [[Pony Harrigan]] fails to brew adequate liquor, but makes breakfast for the camp with the help of his hand. They set off towards the town. As they crest a hill and look down on the town, it's clearly emptier than [[Fineas Penn|Fineas]] remembered roughly one year prior, with new structures strewn around the outside of the town. Fineas incorrectly identifies these as grain silos, while Pony knows they are observation towers of some sort. [[Lark]] is learning to count, and practices with the buildings in the town.
 

@@ -4,7 +4,6 @@ tags:
   - non-player
 ---
 _she/her/hers_
-**Campaign Featured:** [[First Campaign]]
 **Age:**
 **Race:** Variant Human
 **Class:**
@@ -29,4 +28,7 @@ Leader of the [[Silverton Resistance]].
 
 # Sessions Featured
 
-- \[ Link directly to session document ]
+- [[First Campaign]]
+	- [[2025-02-03 Meeting Resistance]]
+	- [[2025-02-10 Sewer Run]]
+	- [[2025-03-24 Goodbyes]]

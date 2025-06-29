@@ -10,6 +10,8 @@ Setting: [[Bleakburgh]]
 Previous Session: [[2025-01-19 Tunnel Visions]]
 Next Session: [[2025-02-03 Meeting Resistance]]
 
+# Synopsis
+
 - We enter scene at the outskirts of Silverton.
 - Fineas spies across the outskirts of town for anywhere that looks less closely guarded
 	- I notice that the Cathars are very spread apart to give the appearance of a much larger force.
