@@ -5,10 +5,10 @@ tags:
 ---
 
 Campaign: [[First Campaign]]
-Setting: [[Bleakburgh]]
+Setting: [[Sundance]] outskirts, [[Wolf's Spine Gorge]], Tokwa ruins
 
 Previous Session: [[2024-12-29 Best-Laid Plans]]
-Next Session: 
+Next Session: [[2025-01-19 Tunnel Visions]]
 
 # Synopsis
 

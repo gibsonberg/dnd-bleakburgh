@@ -5,7 +5,7 @@ tags:
 ---
 
 Campaign: [[First Campaign]]
-Setting: [[Bleakburgh]]
+Setting: [[Bastle]]
 
 Previous Session: [[2025-04-06 Bugging]]
 Next Session: 

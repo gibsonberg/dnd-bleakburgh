@@ -1,0 +1,22 @@
+
+- Revisit [[First Campaign]] sessions and rewrite [[2024-12-19 In Passing]] and prior:
+	- [ ] [[2024-09-28 Prickly Beginnings]]
+	- [ ] [[2024-10-05 Two Rows]]
+	- [ ] [[2024-10-19 Low Bar]]
+	- [ ] [[2024-11-09 Connections]]
+	- [ ] [[2024-11-25 Religious Trauma]]
+	- [ ] [[2024-12-01 Regression]]
+	- [ ] [[2024-12-19 In Passing]]
+- Write narrative synopses for all sessions [[2024-12-29 Best-Laid Plans]] and later:
+	- [ ] [[2024-12-29 Best-Laid Plans]]
+	- [ ] [[2025-01-11 Good Intentions]]
+	- [ ] [[2025-01-19 Tunnel Visions]]
+	- [ ] [[2025-01-26 Hospitality]]
+	- [ ] [[2025-02-03 Meeting Resistance]]
+	- [ ] [[2025-02-10 Sewer Run]]
+	- [ ] [[2025-03-24 Goodbyes]]
+	- [ ] [[2025-04-06 Bugging]]
+	- [ ] [[2025-05-11 Hole in the World]]
+- Reformat all articles to have **Campaigns Featured** replace **Sessions Featured**, and place **Campaigns Featured** above **Campaign Events** above everything else.
+- Fill out all articles with all information collected throughout campaign
+	- Do this while writing synopses wherever possible to save on work

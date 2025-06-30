@@ -5,7 +5,7 @@ tags:
 ---
 
 Campaign: [[First Campaign]]
-Setting: [[Bleakburgh]]
+Setting: [[Silverton]]
 
 Previous Session: [[2025-01-26 Hospitality]]
 Next Session: [[2025-02-10 Sewer Run]]

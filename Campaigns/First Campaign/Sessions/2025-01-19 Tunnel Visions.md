@@ -5,10 +5,10 @@ tags:
 ---
 
 Campaign: [[First Campaign]]
-Setting: [[Bleakburgh]]
+Setting: Tokwa ruins 
 
-Previous Session: [[2025-01-11 Rocky Road]]
-Next Session: 
+Previous Session: [[2025-01-11 Good Intentions]]
+Next Session: [[2025-01-26 Hospitality]]
 
 # Synopsis
 

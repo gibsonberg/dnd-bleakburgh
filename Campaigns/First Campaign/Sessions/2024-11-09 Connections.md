@@ -5,7 +5,7 @@ tags:
 ---
 
 Campaign: [[First Campaign]]
-Setting: [[Bleakburgh]]
+Setting: [[Beatstone]] 
 
 Previous Session: [[2024-10-19 Low Bar]]
 Next Session: [[2024-11-25 Religious Trauma]]

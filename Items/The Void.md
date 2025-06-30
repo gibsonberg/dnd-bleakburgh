@@ -4,4 +4,4 @@ tags:
 aliases:
   - Void
 ---
-[[Void Cataclysm]]
+[[Void Calamity]]

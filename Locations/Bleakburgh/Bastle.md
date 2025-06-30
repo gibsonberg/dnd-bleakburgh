@@ -7,7 +7,7 @@ Bastle is a town in [[Bleakburgh]] famous for its lax enforcement of the law. Wh
 
 # History
 
-Hundreds of years ago, the church built the town. When the [[Void Cataclysm]] occurred in [[Darton]], whereas some groups took the more militant approach of [[Crusaders of Eve|Eve's Cathars]], the church in Bastle stayed consistent with the original principles of the [[Church of Eve]].
+Hundreds of years ago, the church built the town. When the [[Void Calamity]] occurred in [[Darton]], whereas some groups took the more militant approach of [[Crusaders of Eve|Eve's Cathars]], the church in Bastle stayed consistent with the original principles of the [[Church of Eve]].
 
 # Sub-locations
 

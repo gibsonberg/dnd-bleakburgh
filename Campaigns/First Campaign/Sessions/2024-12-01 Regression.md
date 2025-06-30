@@ -5,7 +5,7 @@ tags:
 ---
 
 Campaign: [[First Campaign]]
-Setting: [[Bleakburgh]]
+Setting: [[Wolf's Spine Gorge]]
 
 Previous Session: [[2024-11-25 Religious Trauma]]
 Next Session: [[2024-12-19 In Passing]]
@@ -19,7 +19,7 @@ Fineas observes the turquoise glints in the air and feels that they are much str
 While discussing the encounter prior with [[Crusaders of Eve|Eve's Cathars]], Lark and Pony remark that it was interesting how they seemed eager to use magic themselves, but condemned others for using it. Deciding to read the holy book/manifesto Lark stole off the guard [[Slim Jim]] killed, he recalls that there are two primary sects of the [[Crusaders of Eve]]: one that believes primarily in the life-oriented teachings of their god, and one that cares more about "righteousness" and believes that magic is wrong if it is "not of Eve" (i.e. if others use it for other aims that they deem heretical). He finds a passage that shows that the group [[Harrigan-Penn Party]] encountered belonged to the latter sect. Fineas then closes his eyes, and is granted the entire history of the [[Church of Eve]] in a vision, with the following notable points highlighted:
 - The continent used to be inhabited by the Tokwa, who called it [[Tikana]]. They lived largely in balance with [[The Void]], which they called The Beyond. They understood that there were other entities within the Void, but that Eve was the most powerful and benevolent of them. The Tokwa retreated north throughout colonization, and today it is unknown if any of them remain, as any potential modern groups are uncontacted.
 - The Tokwa built artifacts to serve as foci of the Void so that they could harness its energy in a somewhat stable manner. The Tokwa used these and a set of simple tenets respecting life and the natural order; these tools were not supposed to be used to do things that disrupt this order, i.e. for evil aims. Ruins are scattered across the continent. The item in Darton is not a focus.
-- [[Bill McGraw]] caused the [[Void Cataclysm|Void Calamity]]
+- [[Bill McGraw]] caused the [[Void Calamity|Void Calamity]]
 
 Lark looks over the edge of [[Wolf's Spine Gorge]] and barely sees a flame at the bottom. He points it out to Pony and the gang. Pony fashions a makeshift telescope out of spare items he was carrying, and with it is able to see that the fire was lit by an apparent archaeologist at the bottom of the Gorge. The gang sleeps in shifts, and come morning, decides to jump down to extract information from him. Pony casts [[Feather Falling]], shoving [[Deputy Arnold|Arnold]] down to join the rest of the group at the bottom. He lets the group fall fast for a brief moment to give Lark the sensation of flight, but this causes Arnold to vomit directly onto Pony. Upon landing, the group immediately wakes the archaeologist, who, frightened, introduces himself as [[Friedrich Heidelheim]]. Through some introductory discussion, Fineas takes interest in his apparent desire to learn how to harness [[The Void]] for productive aims, and his apparent knowledge of the [[Tokwa]]. Fineas asks Friedrich to talk later about his plan to visit [[Darton]]. Friedrich inspects Lark's discs, and is interested in how ancient they are and how similar in form they seem to be to some much larger stones he sketched.
 

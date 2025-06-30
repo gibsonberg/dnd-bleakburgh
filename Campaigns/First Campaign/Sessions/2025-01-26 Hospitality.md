@@ -5,7 +5,7 @@ tags:
 ---
 
 Campaign: [[First Campaign]]
-Setting: [[Bleakburgh]]
+Setting: [[Silverton]]
 
 Previous Session: [[2025-01-19 Tunnel Visions]]
 Next Session: [[2025-02-03 Meeting Resistance]]

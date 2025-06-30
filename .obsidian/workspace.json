@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaigns/First Campaign/Sessions/2025-05-11 Hole in the World.md",
+                "file": "Locations/Bleakburgh/Darton.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-05-11 Hole in the World"
+              "title": "Darton"
+            }
+          },
+          {
+            "id": "baab982548c98af0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Non-Player Characters/Gladys Thornby.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Gladys Thornby"
             }
           }
         ]
@@ -43,12 +57,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaigns/First Campaign/Sessions/2025-02-10 Sewer Run.md",
+                "file": "Campaigns/First Campaign/Sessions/2024-12-29 Best-Laid Plans.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-02-10 Sewer Run"
+              "title": "2024-12-29 Best-Laid Plans"
             }
           }
         ],
@@ -217,34 +231,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2e599c4e230394c7",
+  "active": "34b5df68694f9bf2",
   "lastOpenFiles": [
-    "Campaigns/First Campaign/Sessions/2025-04-06 Bugging.md",
-    "Campaigns/First Campaign/Sessions/2025-03-24 Goodbyes.md",
-    "Campaigns/First Campaign/Sessions/2025-02-10 Sewer Run.md",
-    "Campaigns/First Campaign/Sessions/2025-02-03 Meeting Resistance.md",
-    "Campaigns/First Campaign/Sessions/2025-01-26 Hospitality.md",
-    "Campaigns/First Campaign/Sessions/2025-01-19 Tunnel Visions.md",
-    "Campaigns/First Campaign/Sessions/2025-01-11 Rocky Road.md",
+    "Locations/Bleakburgh/Darton.md",
+    "Locations/Bleakburgh/Wolf's Spine Gorge.md",
     "Campaigns/First Campaign/Sessions/2024-12-29 Best-Laid Plans.md",
+    "History/Void Calamity.md",
+    "Campaigns/TODO.md",
+    "Characters/Non-Player Characters/Gladys Thornby.md",
+    "Characters/Non-Player Characters/Mushroom Idol.md",
+    "Templates/Session Template.md",
+    "Campaigns/First Campaign/Sessions/2025-06-29.md",
+    "Locations/Bleakburgh/Sundance.md",
+    "Locations/Bleakburgh/Greenfang.md",
+    "Characters/Player Characters/Fineas Penn/Fineas Penn - Log.md",
     "Campaigns/First Campaign/Sessions/2024-12-19 In Passing.md",
+    "Campaigns/First Campaign/Sessions/2025-02-10 Sewer Run.md",
+    "Campaigns/First Campaign/Sessions/2025-01-11 Good Intentions.md",
     "Campaigns/First Campaign/Sessions/2024-12-01 Regression.md",
     "Campaigns/First Campaign/Sessions/2024-11-25 Religious Trauma.md",
     "Campaigns/First Campaign/Sessions/2024-11-09 Connections.md",
     "Campaigns/First Campaign/Sessions/2024-10-19 Low Bar.md",
-    "Campaigns/First Campaign/Sessions/2024-10-05 Two Rows.md",
-    "Campaigns/First Campaign/Sessions/2024-09-28 Prickly Beginnings.md",
-    "Templates/Session Template.md",
-    "Templates/Player Character/Character.md",
-    "Templates/Simple Character.md",
-    "Characters/Player Characters/Fineas Penn/Fineas Penn.md",
-    "Characters/Player Characters/Concept Warform.md",
-    "Characters/Player Characters/Fern.md",
-    "Characters/Player Characters/Lark.md",
-    "Characters/Player Characters/Pony Harrigan.md",
-    "Characters/Player Characters/Slim Jim.md",
-    "Characters/Player Characters/The Creature.md",
-    "Characters/Creatures/Basilisk.md",
+    "Campaigns/First Campaign/First Campaign.md",
+    "Campaigns/First Campaign/Sessions/2025-05-11 Hole in the World.md",
+    "Campaigns/First Campaign/Sessions/2025-04-06 Bugging.md",
+    "Campaigns/First Campaign/Sessions/2025-03-24 Goodbyes.md",
+    "Campaigns/First Campaign/Sessions/2025-02-03 Meeting Resistance.md",
+    "Campaigns/First Campaign/Sessions/2025-01-26 Hospitality.md",
+    "Campaigns/First Campaign/Sessions/2025-01-19 Tunnel Visions.md",
     "Images/Characters/FinPenn.png",
     "Images/Characters/newchar.jpeg",
     "Images/Characters/PonyHarr.png",

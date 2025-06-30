@@ -8,7 +8,9 @@ In [[Bleakburgh]]
 asdf
 # History
 
-anti-life zone
+## Anti-Life Zone
+
+The area once occupied by the city of Darton is now occupied by a crater and a so-called "anti-life zone." Any living things which have entered this zone have disappeared entirely.
 
 # Politics
 

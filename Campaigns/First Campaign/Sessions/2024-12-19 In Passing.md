@@ -5,7 +5,7 @@ tags:
 ---
 
 Campaign: [[First Campaign]]
-Setting: [[Bleakburgh]]
+Setting: [[Wolf's Spine Gorge]], [[Sundance]]
 
 Previous Session: [[2024-12-01 Regression]]
 Next Session: [[2024-12-29 Best-Laid Plans]]

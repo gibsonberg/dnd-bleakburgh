@@ -5,36 +5,23 @@ tags:
 ---
 
 Campaign: [[First Campaign]]
-Setting: [[Bleakburgh]]
+Setting: [[Sundance]]
 
 Previous Session: [[2024-12-19 In Passing]]
-Next Session: [[2025-01-11 Rocky Road]]
+Next Session: [[2025-01-11 Good Intentions]]
 
 # Synopsis
 
-A hooded figure spotted in the doctor's office slips into the crowd outside of the office unseen.
+A hooded figure spotted in the [[Sundance#Doctor's Office|doctor's office]] slips into the crowd outside of the office unseen. [[Fineas Penn]] and [[Lark]] decide to head towards the [[Sundance#Library|Library]] with intent for Lark to sneak in and find any texts on the [[Chrono Kid]]. [[Slim Jim]] and [[Friedrich Heidelheim|Friedrich]] agree to perform a drug deal for [[Doctor Martin]] **(Jones? the smoker, TODO: Verify with previous episode)**, but get caught up on their way out and are brought into the same office as [[Pony Harrigan|Pony]] and [[Deputy Arnold#Arnold]]. Pony and Arnold are still partaking in therapy and admit that they have feelings for one another. Pony and the rest of the gang in the room argue about whether to go the the library or to the [[Sundance#The Painted Steed|Painted Steed]].
 
-- The hooded figure slips into the crowd outside of the doctor's office.
-- Fineas and Lark head towards the library with intent for lark to sneak in and find any texts on the Chrono Kid.
-- Slim Jim and Friedrich agree to performing a drug deal for Dr. Martin (Jones? the smoker), but on their way out get caught up and brought into the same office as Pony and Arnold
-- Pony and Arnold admit feelings for one another
-- Pony and the rest of the gang with him argue about going to the library before deciding to go to the painted steed
-- They order drinks. Pony's goes down like water. The barkeep has fermented milk. Friedrich's whiskey acts quick
-- Max's character is introduced as the hooded "wise man" in the bar, parrying a blow from an aggressive patron
-- Pony interjects into one of the wise man's fortunes referring to woman trying to grow petunias, giving unsolicited growing advice
-- Pony sends off Arnold and gets advice about his relationship. It is effectively the same as was given for the petunias. Pony pays a fake gold coin
-- The wise man sees the aura around the party members
-- Slim Jim notices the aura
-	- Slim Jim passes a nat 20 on a medicine check on the wise man. His origins are similar to Slim Jim's
-	- Slim Jim communicates with Megan and learns Finneas and Lark left towards the library
-- With help from the wise man, the remaining group heads towards the library after Friedrich finishes his stint with the other man in the closet above
-- Me and Lark enter the library and speak to a librarian (Gladys Thornby) to help us find a book on the Chrono Kid
-	- The Chrono Kid and Other Modern Folklore
-		- Things about void anomalies & the kind of hopelessness that arose from unprecedented circumstances giving rise to rhese sorts of folktales. Some people insist the Kid is real, but all academic sources disagree
-	- A Brief History of Darton and its Impacts on the Modern World
-		- A Tycoon by the name of Bill McGraw did experiments within Darton which caused the Void Calamity. There are reports of the temporary planar displacement of the entire city of Darton. There was just a crater there, and 75 years later scientists did experiments using McGraw's data. The tools developed were meant to control the void in ways McGraw's attempts failed to. The implication is that Darton's connection to reality is tenuous. Nobody knows what happens when someone crosses, but that nobody has come back out. All of the tales of gruesome deaths are hearsay -- Darton is referred to as simply between places. Nobody knows the location of McGraw's notes, but the knowledge of people working with him made its way out of Darton via other people.
-		- Authors: Jonas Finnegan, Cheryl Still -> they went to Silverton last Gladys heard
-	- A 25-year old newspaper about Beatstone is the most recent. Nothing particularly useful.
+The gang order drinks at the Painted Steed. Pony's goes down like water. The barkeep has [[Fermented Milk]] for Slim Jim, and Friedrich's whiskey acts quick. Friedrich finds himself a bar fling and sneaks off to another room. A hooded [[The Creature|wise man]] sits in a far corner begging for change in exchange for fortunes. One patron doesn't take kindly to their fortune and attempts to deal a blow to the wise man, but is deftly parried and put on his back. The wise man goes back to giving fortunes. As he gives one to a woman trying to grow petunias, Pony interjects to provide unsolicited advice.
+
+Pony sends Arnold off and decides to ask the wise man for advice about their relationship. The wise man offers a reply almost identical to the advice he gave to the lady seeking help with her petunias. Pony pays a fake gold coin for the advice. The wise man sees the aura the party members picked up from the [[Wolf's Spine Gorge#Time Yarn|Time Yarn]]. Slim Jim assesses the wise man, and on a natural 20, comes to the conclusion that the wise man's origins were similar to his own. Slim Jim checks in with [[Slim Jim#Megan|Megan]] and learns Fineas' and Lark's destination from her. The remaining group gets the wise man's help and heads towards the library while Friedrich finishes his audible stint with another man in a closet on the floor above.
+
+Fineas and Lark enter the library and ask [[Gladys Thornby|the librarian, Gladys Thornby]], for help finding a book on the [[Chrono Kid]]. She directs the duo to a few main sources. The first is a book titled _The Chrono Kid and Other Modern Folklore_, which describes various void anomalies and how the hopelessness that arose from the [[Void Calamity]] lead to folktales such as those about the Chrono Kid. It mentions that some insist the Chrono Kid is real, but all academic sources disagree. Lark has no further interest in this book. The second book is titled _A Brief History of Darton and Its Impacts on the Modern World_.
+
+This text describes how a tycoon by the name of [[Bill McGraw]] performed experiments within [[Darton]] that directly caused the [[Void Calamity]]. There are reports of the temporary planar displacement of the entire city of Darton, and it is mentioned how now only a crater remains in the city's place. Nobody knows the location of McGraw's notes, but the knowledge of people working with him made its way out of Darton via word of mouth. 75 years after the Calamity, scientists used McGraw's data to perform further experiments. The tools they developed with this data were intended to control [[The Void]] in ways McGraw's attempts failed to. The overall implication of the text is that Darton's connection to reality is tenuous at best -- nobody knows what happens when somebody crosses the [[Darton#Anti-Life Zone|anti-life zone]]. People have crossed, but nobody comes back out. All tales about the zone that tell of gruesome deaths are mere hearsay; Darton is thought by academics to simply be "between places." Lark checks the authors of this book and notes that they are [[The Authors|Jonas Finnegan and Cheryl Still]]. He asks Gladys about them. Last she's heard, they headed to [[Silverton]]. Fineas peruses a 25-year old newspaper about [[Beatstone]], the most recent, but finds nothing particularly interesting.
+
 - The wise man leads the rest of the gang to the library. Clark is with them, and gets them into the library without a card.
 - I see a similar emptiness in the eyes of the wise man. I list off two of my utterances and he fills them in correctly.
 	- The wise man was void touched at the Forsaken Idol - he describes as a piece of stone that reaches high far below

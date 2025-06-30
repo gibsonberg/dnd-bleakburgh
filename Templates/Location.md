@@ -1,7 +1,6 @@
 ---
 tags:
   - location
-  - geog_feature
 ---
 Jump to:
 - [[Location#Campaigns Featured|Campaigns Featured]]
@@ -10,13 +9,12 @@ Jump to:
 - [[Location#Politics|Politics]]
 - [[Location#Sub-locations|Sub-locations]]
 
-Wolf's Spine Gorge is a geographic feature in [[Bleakburgh]].
+\[ Insert brief description of the location and any key features/points of interest/history ]
 
 # Campaigns Featured
 
-- [[First Campaign]]
-	- [[2024-12-01 Regression]]
-	- [[2024-12-19 In Passing]]
+- \[ Campaign ]
+	- \[ Session ]
 
 # Campaign Events
 
@@ -32,6 +30,6 @@ Wolf's Spine Gorge is a geographic feature in [[Bleakburgh]].
 
 # Sub-locations
 
-## Time Yarn
+## \[ Insert sub-location ]
 
-asdfasdf
+\[ Insert brief description of sub-location ]
