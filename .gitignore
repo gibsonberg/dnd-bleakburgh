@@ -1,3 +1,4 @@
 # Ignore Obsidian workspace.json
 # This seems to cause pull issues because it updates independently
 .obsidian/workspace.json
+.obsidian/workspace-mobile.json
