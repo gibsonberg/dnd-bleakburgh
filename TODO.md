@@ -9,7 +9,7 @@
 	- [ ] [[2024-12-19 In Passing]]
 - Write narrative synopses for all sessions [[2024-12-29 Best-Laid Plans]] and later:
 	- [x] [[2024-12-29 Best-Laid Plans]]
-	- [ ] [[2025-01-11 Good Intentions]]
+	- [ ] [[2025-01-11 Threshold]]
 	- [ ] [[2025-01-19 Tunnel Visions]]
 	- [ ] [[2025-01-26 Hospitality]]
 	- [ ] [[2025-02-03 Meeting Resistance]]

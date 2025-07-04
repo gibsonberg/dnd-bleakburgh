@@ -7,7 +7,7 @@ tags:
 Campaign: [[First Campaign]]
 Setting: Tokwa ruins 
 
-Previous Session: [[2025-01-11 Good Intentions]]
+Previous Session: [[2025-01-11 Threshold]]
 Next Session: [[2025-01-26 Hospitality]]
 
 # Synopsis

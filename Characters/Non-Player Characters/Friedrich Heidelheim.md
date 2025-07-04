@@ -35,5 +35,5 @@ During his travels in Bleakburgh, it was posited that he managed to survive his 
 	- [[2024-12-01 Regression]]
 	- [[2024-12-19 In Passing]]
 	- [[2024-12-29 Best-Laid Plans]]
-	- [[2025-01-11 Good Intentions]]
+	- [[2025-01-11 Threshold]]
 	- [[2025-01-19 Tunnel Visions]]

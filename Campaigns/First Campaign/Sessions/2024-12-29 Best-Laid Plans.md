@@ -8,7 +8,7 @@ Campaign: [[First Campaign]]
 Setting: [[Sundance]]
 
 Previous Session: [[2024-12-19 In Passing]]
-Next Session: [[2025-01-11 Good Intentions]]
+Next Session: [[2025-01-11 Threshold]]
 
 # Synopsis
 

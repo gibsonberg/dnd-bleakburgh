@@ -19,7 +19,7 @@ The de facto mayor of Sundance is [[Annabella Monroe]].
 	- [[2024-09-28 Prickly Beginnings]] (character origin)
 	- [[2024-12-19 In Passing]]
 	- [[2024-12-29 Best-Laid Plans]]
-	- [[2025-01-11 Good Intentions]] (outskirts)
+	- [[2025-01-11 Threshold]] (outskirts)
 	- [[2025-01-19 Tunnel Visions]] (destruction viewed)
 
 # Campaign Events

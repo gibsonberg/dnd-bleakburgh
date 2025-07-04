@@ -12,14 +12,12 @@ Next Session: [[2025-01-19 Tunnel Visions]]
 
 # Synopsis
 
-- The group races south until they practically collapse from exhaustion about 7 miles from the city. We immediately long rest
-	- Lark watches first, uneventfully
-	- Looking around on my watch, the glow surrounding most of us has faded slightly but its still a bit brighter.
-	- I wake Friedrich, and he tries to flee. The group awakes and confronts him about it, threatening him somewhat and agreeing that they need his notes if he is to flee
-	- Pony takes watch. He notices a cloud of dust on the horizon and wakes Arnold.
-	- Arnold can tell that its clearly law enforcement and the gang wakes
-- Pony and Lark have a race, and Lark just keeps going, only 10 miles per hour slower than a horse. The group heads towards the Gorge
-- Fineas contradicts this plan and suggests the team head to Silverton. After some discussion, they decide to set a trap and strip Friedrich of weapons to ensure he doesn't switch on us during it.
+[[Harrigan-Penn Party|The group]] races south of [[Sundance]] until they practically collapse from exhaustion about 8 miles from the city, immediately falling into a long rest. They manage to keep watch. [[Lark]] watches first, to no major event. Lark wakes [[Fineas Penn|Fineas]], who notices that the glow surrounding the members of the party from their earlier exposure to the [[Wolf's Spine Gorge#Time Yarn|Time Yarn]] has faded slightly. Fineas wakes [[Friedrich Heidelheim|Friedrich]], who tries to flee. The group wakes up to commotion and confronts him about it, threatening him and agreeing that they need to grab his notes on the Tokwa if he is to flee. [[Pony Harrigan|Pony]] takes over Friedrich's watch and notices a cloud of dust on the horizon. He wakes [[Deputy Arnold|Arnold]], who can clearly see that it's law enforcement. The party is awoken and set to prepare for conflict.
+
+As everybody sets up to keep moving towards [[Wolf's Spine Gorge]], Pony and Lark agree to have a race. Lark beats Pony handily and just keeps going as the party begins to move. He's barely slower than a horse. While they move, Fineas offers an alternative plan: head to [[Silverton]]. After some discussion, they decide to keep going back to [[Wolf's Spine Gorge#Lark's House|Lark's House]] to set up an ambush. The party agrees to strip Friedrich of his weapons to ensure he doesn't betray them.
+
+The party arrives at Lark's house. Knowing that the house will erupt in flames just in time to provide a distraction, Pony disguises himself as a young girl perfectly and the rest of the group hides behind rocks and berms in the vicinity. Sundance law enforcement arrives at the scene and believe it fully; Pony is somehow perfectly playing the part of a distressed child begging for help as her home burns down. The guards approach
+
 - They go to Lark's house. Pony disguises as a child on a nat 20, and the rest of the group hides around the vicinity
 	- The ambush strikes, and only Lark really has luck with hitting at first. Pony decides to self-immolate, warning the team that he's going to hit a Cactus Forest. The team flees except for Arnold, whom Fineas protects. Half the pursuers are dead, and the team strikes again.
 	- They win the encounter, killing the entire party of officers with few hit points remaining

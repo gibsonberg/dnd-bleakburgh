@@ -18,7 +18,7 @@ Setting: [[Bleakburgh]], year XXXX
 - [[2024-12-01 Regression]]
 - [[2024-12-19 In Passing]]
 - [[2024-12-29 Best-Laid Plans]]
-- [[2025-01-11 Good Intentions]]
+- [[2025-01-11 Threshold]]
 - [[2025-01-19 Tunnel Visions]]
 - [[2025-01-26 Hospitality]]
 - [[2025-02-03 Meeting Resistance]]
