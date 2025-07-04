@@ -46,4 +46,8 @@ asdf
 
 ## The Painted Steed
 
-The Painted steed is a gay bar in Sundance. It provides drink and lodging. People often post up there searching for work or for a fun time.
+The Painted steed is a gay bar in Sundance. People often post up there searching for work or for a fun time.
+
+## The Tanned Hide
+
+A shop that makes things out of animals parts.

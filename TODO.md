@@ -8,7 +8,7 @@
 	- [ ] [[2024-12-01 Regression]]
 	- [ ] [[2024-12-19 In Passing]]
 - Write narrative synopses for all sessions [[2024-12-29 Best-Laid Plans]] and later:
-	- [ ] [[2024-12-29 Best-Laid Plans]]
+	- [x] [[2024-12-29 Best-Laid Plans]]
 	- [ ] [[2025-01-11 Good Intentions]]
 	- [ ] [[2025-01-19 Tunnel Visions]]
 	- [ ] [[2025-01-26 Hospitality]]
@@ -20,3 +20,5 @@
 - Reformat all articles to have **Campaigns Featured** replace **Sessions Featured**, and place **Campaigns Featured** above **Campaign Events** above everything else.
 - Fill out all articles with all information collected throughout campaign
 	- Do this while writing synopses wherever possible to save on work
+- When [[Slim Jim]] has been filled out with information on his spiritual connections, go back and cite the proper sections in the session texts
+	- [[2024-12-29 Best-Laid Plans]] -- need to cite The Body

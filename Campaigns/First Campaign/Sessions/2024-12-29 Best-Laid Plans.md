@@ -12,7 +12,7 @@ Next Session: [[2025-01-11 Good Intentions]]
 
 # Synopsis
 
-A hooded figure spotted in the [[Sundance#Doctor's Office|doctor's office]] slips into the crowd outside of the office unseen. [[Fineas Penn]] and [[Lark]] decide to head towards the [[Sundance#Library|Library]] with intent for Lark to sneak in and find any texts on the [[Chrono Kid]]. [[Slim Jim]] and [[Friedrich Heidelheim|Friedrich]] agree to perform a drug deal for [[Doctor Martin]] **(Jones? the smoker, TODO: Verify with previous episode)**, but get caught up on their way out and are brought into the same office as [[Pony Harrigan|Pony]] and [[Deputy Arnold#Arnold]]. Pony and Arnold are still partaking in therapy and admit that they have feelings for one another. Pony and the rest of the gang in the room argue about whether to go the the library or to the [[Sundance#The Painted Steed|Painted Steed]].
+A hooded figure spotted in the [[Sundance#Doctor's Office|doctor's office]] slips into the crowd outside of the office unseen. [[Fineas Penn]] and [[Lark]] decide to head towards the [[Sundance#Library|Library]] with intent for Lark to sneak in and find any texts on the [[Chrono Kid]]. [[Slim Jim]] and [[Friedrich Heidelheim|Friedrich]] agree to perform a drug deal for [[Doctor Jones]] **(Jones? the smoker, TODO: Verify with previous episode)**, but get caught up on their way out and are brought into the same office as [[Pony Harrigan|Pony]] and [[Deputy Arnold#Arnold]]. Pony and Arnold are still partaking in therapy and admit that they have feelings for one another. Pony and the rest of the gang in the room argue about whether to go the the library or to the [[Sundance#The Painted Steed|Painted Steed]].
 
 The gang order drinks at the Painted Steed. Pony's goes down like water. The barkeep has [[Fermented Milk]] for Slim Jim, and Friedrich's whiskey acts quick. Friedrich finds himself a bar fling and sneaks off to another room. A hooded [[The Creature|wise man]] sits in a far corner begging for change in exchange for fortunes. One patron doesn't take kindly to their fortune and attempts to deal a blow to the wise man, but is deftly parried and put on his back. The wise man goes back to giving fortunes. As he gives one to a woman trying to grow petunias, Pony interjects to provide unsolicited advice.
 
@@ -22,63 +22,26 @@ Fineas and Lark enter the library and ask [[Gladys Thornby|the librarian, Gladys
 
 This text describes how a tycoon by the name of [[Bill McGraw]] performed experiments within [[Darton]] that directly caused the [[Void Calamity]]. There are reports of the temporary planar displacement of the entire city of Darton, and it is mentioned how now only a crater remains in the city's place. Nobody knows the location of McGraw's notes, but the knowledge of people working with him made its way out of Darton via word of mouth. 75 years after the Calamity, scientists used McGraw's data to perform further experiments. The tools they developed with this data were intended to control [[The Void]] in ways McGraw's attempts failed to. The overall implication of the text is that Darton's connection to reality is tenuous at best -- nobody knows what happens when somebody crosses the [[Darton#Anti-Life Zone|anti-life zone]]. People have crossed, but nobody comes back out. All tales about the zone that tell of gruesome deaths are mere hearsay; Darton is thought by academics to simply be "between places." Lark checks the authors of this book and notes that they are [[The Authors|Jonas Finnegan and Cheryl Still]]. He asks Gladys about them. Last she's heard, they headed to [[Silverton]]. Fineas peruses a 25-year old newspaper about [[Beatstone]], the most recent, but finds nothing particularly interesting.
 
-- The wise man leads the rest of the gang to the library. Clark is with them, and gets them into the library without a card.
-- I see a similar emptiness in the eyes of the wise man. I list off two of my utterances and he fills them in correctly.
-	- The wise man was void touched at the Forsaken Idol - he describes as a piece of stone that reaches high far below
-- The group heads towards an inn and passes a bunch of drunk partiers who are very loud and cause Lark a lot of discomfort.
-- Distracting the guards: get into a fake drunk brawl with Arnold outside the library to draw the attention of the guards.
-	- Not meant harshly: YOU THINK PONY WOULD EVER GO FOR A GUY LIKE YOU? Hah, you're out of your mind Arnold
-	- He doesn't even like yew.
-	- You ain't enough man for a guy like Pony. He likes em big.
-- While we sleep, Pony gets stabbed by the hooded figure we saw and then promptly forgot. The creature detects this and busts the door down, stunning and dealing great damage. Finneas and the others wake up, and Finneas is immediately charmed by the creature's spectral pseudopod.
-	- The assassin seems familiar to Fineas, maybe.
-	- The figure breaks out of their stun and attempts to break out of the window, but they are barred.
-	- The creature destroys the assassin. I cast speak with dead
-		- Who are you? A voice I know Ive heard before. They were sent to send a message.
-		- What's the message: We were not meant to meddle in their affairs
-		- Member of the Crusaders of Eve? Yes
-		- Why Pony? He resisted the font
-		- Who am I to you? Just a petulant prisoner. The oracle that looked back down the tunnel.
-- In the assassin's belongings:
-	- Dagger with three-ray sun symbol on pommel
-	- List of names: Pony - Kill, Finneas - Question, Jim - Test, Lark - Unimportant (he says he is to be made king)
-- Slim Jim reveals that sometimes while sleeping, he can see his owners.
-	- They look different - more shapely
-	- They always praise Slim
-- We decide on a new heist plan
-- Cheapest houses to own in Sundance are ~250-300 gold
-- I take lark to a plae that makes things out of animal parts - The Tanned Hide
-- Pony considers upgrading his armor with the Chimera scales
-- The creature absorbs the body
-- Slim Jim takes a cat nap and has a vision. Charred, blackened fireplace. Tendrils splay about the ground. Following up the connection, it rises like roots to a body, shriveled and twisted. Several faces on one body. It speaks with both as if it's one voice: Slim Jim. Jim has found another that "stems from us". Slim Jim relays the creature's desire to free the material realm from its wealth. If it shows itself to be in opposition to JIm's cause, it is to be dispatched of. This is not elaborated on.
-	- Jim asks about Finneas. He has touched the world. What he will do remains to be seen.
-	- The dominant head begins to yawn, revealing cat-like canines, ending the dream.
-- Someone in a zoot suit says "two rows for the cat" through the door just as the creature finishes digesting most of the body
-	- Slim Jim didn't know who or where to look for.
-	- The mafia member suggest Jim throw Friedrich under the bus to cover for a lost brick
-	- The dude tries to jump through the barred window for his exit
-- Slim Jim delivers the coke to Dr Jones. They get into a scuffle over the agreement of "two rows for the cat"
-	- Jones gets a few early hits, but Slim Jim heals and hits 4 times with Smite
-	- Slim Jim instakills the fucker. He is painted across the walls.
-- Heist
-	- Jim & Fineas on team distraction, Lark/Creature/Pony on team infiltration
-	- Pony self-disguises as Gladys and acts like he's bringing Lark back to return a book he stole. The guards believe it and let them into the library.
-	- Lark fails to pick the lock of the locked room (case?) within the chamber.
-	- Pony fucks up his attempt to make a hole in the case, shattering a window. It goes unnoticed and the creature unlocks it.
-	- Lark decides to forgo the plan now that there's damage and just steal all of the books he can. He has 4 minutes -- he clears a shelf (20 books).
-- Everybody meets at the inn and we immediately have to leave. As Lark reaches the door of the Inn, he's met by an officer looking into the death of Jones.
-	- I hold Slim Jim to attempt to disguise.
-	- The officer seemingly sees throught it
-	- Lark tries to bribe the police officer and fails. The party immediately resorts to Attack Creature from the bag
-	- The creature mauls the officer, stunning him, and emanates a fart sound audible for 300 feet.
-	- The officer is successfully pulled into the bag as far as his head, closing the drawstring he dies instantly.
-- We flee towards the gates as more officers arrive at the inn
-- The creature says from within the bag, hearing us talk about the Chrono Kid, "The presence is there"
-- Slim Jim describes seeing a special artifact similar to Lark's disks north of Sundance
-- The creature uses spectral arms to assist the party in climbing over Sundance's wall
-	- Arnold fails to climb, but Fineas helps him at cost to speed
-	- The creature takes Friedrich into his body to carry him up directly
-- We are up on the wall.
-- Seeing that the wall is 40 feet high, the group decides to take the fall.
-	- Fineas drags his pickaxe down.
-- We sprint in a random direction until Sundance is just a blip. It turns out we ran south towards the gorge.
+The wise man leads the rest of the party to the library. They had met a man named Clark who is able to vouch for them and get them into the library without a library card. Fineas and the wise man meet, and Fineas can see a familiar emptiness in the wise man's eyes. Fineas speaks two riddle-like utterances and the wise man fills them in correctly. They talk more and the wise man reveals he was void-touched at the "Forsaken Idol," a piece of stone that reaches "high far below." The group, now together, decide to head to an inn. As they leave they pass by a group of drunk party-goers who cause Lark discomfort. Finally at the inn, the group discusses plans to steal the books from the library and use them to seek the authors, pawn off the valuable tomes, and otherwise benefit. One idea is that Fineas and Arnold would get into a fake drunk brawl outside the library to distract the guards and allow the others to enter unseen.
+
+The group goes to sleep split among two rooms. In the middle of the night, Pony gets stabbed by the hooded figure the group noticed and promptly forgot. The wise man, who does not truly sleep and was keeping watch, realizes this assassin slipped past his guard and reacts. He busts down the door, stunning and hurting the assassin. The other are woken up by the commotion and rush to the room Pony is in. Fineas is perplexed and charmed by the wise man's arm morphing into a spectral pseudopod to come to Pony's rescue. We now call the wise man "The Creature." When Fineas snaps out of his charmed admiration, he feels that the assassin seems familiar.
+
+The assassin breaks out of their stunned state and tries to break out of the window. The window is barred, and they flop to the ground. The Creature obliterates the assassin, leaving just enough of the body for Fineas to cast [[Speak with Dead]]. The first question asked is, "Who are you?," to which the corpse replies in a familiar voice that they were "sent to send a message." Fineas asks what the message was -- "not to meddle in our affairs." "Are you a member of the [[Crusaders of Eve]]?" They are. "Why was Pony targeted first?" Because he resisted the font. Finally, Fineas asks who he is to the assassin, thinking they might have been his [[Maisie Penn|long-lost sister]]. The assassin answers, "just a petulant prisoner. The oracle that looked back down the tunnel."
+
+Lark rifles through the assassin's belongings, finding a dagger with the three-ray sun symbol of the Crusaders on its pommel and a list of names: Pony - Kill, Fineas - Question, Jim - Test, Lark - Uninmportant. Lark reads the list off and claims that next to his name it says that he is to be made king. Slim Jim reveals that sometimes when he sleeps, he sees his owners. They look different, more shapely, and they always praise him. Before going back to bed, the group refines their heist plan.
+
+The next day is a day of chores. Fineas and Lark go together. Fineas inquires about the price of home ownership in Sundance (250-300 gold for the cheapest homes!) and then takes Lark to a place called [[Sundance#The Tanned Hide|The Tanned Hide]]. Here, they make things out of animal parts. Lark deliberates on making a dagger from the [[Chimera]]'s tooth he looted, but comes up a few pieces short. Fineas covers the rest of the cost. Meanwhile, Pony considers upgrading his own armor with the Chimera's scales and The Creature absorbs the remainder of the assassin's body in his gelatinous form.
+
+Slim Jim, currently resting in the inn while The Creatures absorbs its prey, takes a cat nap. He awakes to a vision. He sees a charred, blackened fireplace. Tendrils splay out across the ground. He follows up the connection with his eyes and see it rising like roots to [[Slim Jim#Spiritual Connection|a body]], shriveled and twisted. There are several faces on this body, and it speaks with both as if it's one voice. "Slim Jim," it says, "Jim has found another that stems from us." Slim Jim tells the body of The Creature's desire to free the material realm from its wealth. The body tells Slim Jim that, should it show itself to be in opposition to his cause, it is to be dispatched. Jim asks about this cause but the body gives no further elaboration. He asks about Fineas, and the body responds that Fineas has touched the world and that what he will do remains to be seen. The dominant head on the body yawns, revealing cat-like canines, and the dream ends.
+
+Just as The Creature finishes digesting most of the body, someone says through the door of the inn's room: "Two rows for the cat." The Creature hides. Slim Jim opens the door to reveal a man in a zoot suit, doing a "wellness check" on Slim Jim after he didn't show up for the drug deal he had agreed to do for [[Doctor Jones]]. Slim Jim says that he was never told who to look for or even where to look. The man gives Slim Jim the multiple bricks of product he was meant to get to the doctor, but explains that he'd be shorting the doctor one brick. He suggests Slim Jim throw Friedrich under the bus for this lost product. As the mafia member takes his exit, he tries to jump through the window, and also finds it to be barred, crumpling to the floor before leaving normally.
+
+Slim Jim goes to deliver the coke to the doctor. They discuss the lost product, to which Jim easily blames on Friedrich. The doctor doesn't fulfill his own end of the agreement to provide "two rows for the cat." Tensions brew higher and higher. The doctor gets a few early hits in on Slim Jim, but the cat heals and smites the doctor four times in a row. The doctor is turned into a fine mist and painted across every surface in his office. Slim Jim leaves with all of the bricks of product, leaving in a hurry without cleaning up the scene of his crimes.
+
+Night falls and the library heist begins. Slim Jim and Fineas are on the distraction team, while Lark, Pony, and The Creature are on infiltration. Pony disguises himself as Gladys and tugs on Larks ear, scolding him for having taken a book. He tells the guards that he's taking Lark back to return a stolen book, and they believe him. They're in. They quickly make their way up to the locked case that contained the books of interest. Lark tries to pick the lock and fails. Pony tries to make a small hole in the case, but shatters a window instead. The Creature crawls through it in his liquid-like form and unlocks the case from within by lifting the latch. Upon realizing the case is damage and their cover will be blown by morning, Lark ditches the plan and starts shoveling every book he can into Pony's [[Bag of Holding]], along with The Creature. He clears a shelf, 20 books, before they have to flee. The distraction team didn't have to do so much as lift a finger.
+
+Everybody reconvenes at the inn and agrees that they need to leave Sundance immediately before anybody finds out about their theft of precious knowledge. As Lark reaches the door of the inn and opens it, he's met with an officer on the other side looking into the death of [[Doctor Jones]]. Fineas lifts Slim Jim into his arms and strokes him as though he's a normal cat in an attempt to disguise him, but the officer sees right through it, mentioning the size and armor of the cat. Lark tries to bribe the officer and fails. In an instant, the party resorts to violence. The Creature is released from the Bag of Holding. The Creature mauls the officer, stuns him, and emits a fart noise audible for 300 feet around. It pulls his head into the bag, and the drawstring is cinched closed around his neck. The officer dies instantly.
+
+Knowing that the fart noise and the struggle attracted attention, the party flees towards the city gates. Backup officers arrive at the Inn behind them as they do so. The party talks about the [[Chrono Kid]] as they run, and The Creature speaks from the bag: "The presence is there." They discuss where they'll go after they escape. Slim Jim mentions seeing an artifact similar to Lark's disks north of Sundance. The party realizes that the gates will be guarded and opt to scale the city walls instead. The Creature uses its spectral limbs to help the party climb over the stone wall. Arnold slips, but Fineas grabs him and effortlessly helps him as he climbs. Friedrich fails entirely, so the Creature briefly absorbs him as it climbs, giving him minor caustic burns.
+
+The group is now on top of the wall. It's 40 feet high. Running out of time, they decide to take the fall. Fineas drags his pickaxe into the wall as he falls, slowing him down enough to come out unscathed. The others take the fall damage. The group decides to sprint in a random direction until Sundance becomes nothing more than a blip. They realize they've just ran back the way the came, towards [[Wolf's Spine Gorge]].
