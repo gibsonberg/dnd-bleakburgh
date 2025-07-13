@@ -81,7 +81,7 @@ http://dnd5e.wikidot.com/barbarian
 
 | Quantity      | Value |
 | ------------- | ----- |
-| Maximum Rages | 4     |
+| Maximum Rages | 3     |
 | Current Rages | 4     |
 _Expend one per rage, regain 1 per SR or all per LR._
 **Rage Damage:** +2

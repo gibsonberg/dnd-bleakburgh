@@ -20,7 +20,7 @@ GP: 50
 | Light Hammer                                           | 1d4 Bludgeoning                                                               | Light, thrown (range 20/60) |
 | Javelin (x2)                                           | 1d6 Piercing                                                                  | Thrown (range 30/120)       |
 | Unarmed                                                | 1 + Str                                                                       |                             |
-| Unarmed ([[Left Hand of the Foreman\|LHotF]] equipped) | 1d4 + Str + (1d8 Necrotic + 1 turn no healing IF target fails DC 12 Con Save) | 4 charges (4)               |
+| Unarmed ([[Left Hand of the Foreman\|LHotF]] equipped) | 1d4 + Str + (1d8 Necrotic + 1 turn no healing IF target fails DC 12 Con Save) | 4 charges (3)               |
 Base damage comparison:::
 Pick: 6.5/attack avg dmg
 Hand: 8/attack avg dmg for +0 CON target -- target must be +4 CON for DPA to be < pick
@@ -43,8 +43,8 @@ Hand: 8/attack avg dmg for +0 CON target -- target must be +4 CON for DPA to be 
 | Common Clothes [[Fineas Penn - Features & Traits#Folk Hero\|(FH)]] |                                                                                |       | 1        |
 | [[Left Hand of the Foreman]]                                       | See article. Stored in a bag on Fineas' waist. (CURRENTLY DEACTIVATED BY LARK) |       | 1        |
 | Hooded Lantern                                                     | Can adjust shape                                                               |       | 1        |
-| Sundance Halberd Rifle                                             | Taken as trophy                                                                |       | 1        |
-| Horse???                                                           |                                                                                |       |          |
+| Sundance Halberd Rifle                                             | Taken as trophy -- GIVEN TO PONY, UPGRADED AND GIVEN TO ARNOLD                 |       | 1        |
+| Fungal Pods                                                        | Perform healing?                                                               |       | 2        |
 
 # Special Actions
 

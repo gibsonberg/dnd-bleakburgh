@@ -20,7 +20,7 @@ Level 7 Barbarian, Level 1 Fighter
 | Quantity     | Value |
 | ------------ | ----- |
 | Maximum HP   | 61    |
-| Current HP   | 61    |
+| Current HP   | 31    |
 | Temporary HP | 0     |
 **Hit Dice:** 7d12 (one per level) (7) & 1d10 (1)
 _Add CON Modifier to each roll_
@@ -56,7 +56,6 @@ _STR for non-finesse melee, DEX for finesse melee & ranged, spell varies by clas
 | INT     | 7     | -2       |
 | WIS     | 13    | +1       |
 | CHA     | 10    | +0       |
-I HAVE ONE D8 INSPIRATION
 ## Score Modifiers
 
 | Score | Modifier |
