@@ -15,11 +15,12 @@ Jump to:
 		- [[Fineas Penn - Features & Traits#Fighter|Fighter]]
 		- [[Fineas Penn - Features & Traits#Fighting Style (from Level 1 Fighter)|Fighting Style]]
 		- [[Fineas Penn - Features & Traits#Second Wind (from Level 1 Fighter)|Second Wind]]
+		- [[Fineas Penn - Features & Traits#Action Surge (from Level 2 Fighter)|Action Surge]]
 		- [[Fineas Penn - Features & Traits#Barbarian|Barbarian]]
 		- [[Fineas Penn - Features & Traits#Rage|Rage]]
 		- [[Fineas Penn - Features & Traits#Unarmored Defense|Unarmored Defense]]
 		- [[Fineas Penn - Features & Traits#Primal Knowledge|Primal Knowledge]]
-		- [[Fineas Penn - Features & Traits#Ability Score Improvement|Ability Score Improvement]]
+		- [[Fineas Penn - Features & Traits#Ability Score Improvement (Barbarian)|Ability Score Improvement]]
 		- [[Fineas Penn - Features & Traits#Danger Sense (from Level 2)|Danger Sense]]
 		- [[Fineas Penn - Features & Traits#Reckless Attack (from Level 2)|Reckless Attack]]
 		- [[Fineas Penn - Features & Traits#Extra Attack (from Level 5)|Extra Attack]]
@@ -74,6 +75,11 @@ You have a limited well of stamina that you can draw on to protect yourself from
 
 Once you use this feature, you must finish a short or long rest before you can use it again.
 
+### Action Surge (from Level 2 Fighter)
+You can push yourself beyond your normal limits for a moment. On your turn, you can take one additional action. 
+
+Once you use this feature, you must finish a short or long rest before you can use it again. Starting at 17th level, you can use it twice before a rest, but only once on the same turn.
+
 ### Barbarian
 http://dnd5e.wikidot.com/barbarian
 
@@ -81,7 +87,7 @@ http://dnd5e.wikidot.com/barbarian
 
 | Quantity      | Value |
 | ------------- | ----- |
-| Maximum Rages | 3     |
+| Maximum Rages | 4     |
 | Current Rages | 4     |
 _Expend one per rage, regain 1 per SR or all per LR._
 **Rage Damage:** +2
@@ -117,7 +123,7 @@ LEVEL 10 Choice:
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
 
 LEVEL 4: +2 Dexterity
-LEVEL 8: 
+LEVEL 8: +2 Strength
 LEVEL 12:
 LEVEL 16:
 LEVEL 19:

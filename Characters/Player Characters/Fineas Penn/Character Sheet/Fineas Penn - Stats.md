@@ -20,9 +20,9 @@ Level 7 Barbarian, Level 1 Fighter
 | Quantity     | Value |
 | ------------ | ----- |
 | Maximum HP   | 61    |
-| Current HP   | 31    |
+| Current HP   | 61    |
 | Temporary HP | 0     |
-**Hit Dice:** 7d12 (one per level) (7) & 1d10 (1)
+**Hit Dice:** 7d12 (one per level) (8) & 1d10 (2)
 _Add CON Modifier to each roll_
 
 **Death Saves:**
@@ -50,7 +50,7 @@ _STR for non-finesse melee, DEX for finesse melee & ranged, spell varies by clas
 
 | Ability | Score | Modifier |
 | ------- | ----- | -------- |
-| STR     | 16    | +3       |
+| STR     | 18    | +4       |
 | DEX     | 12    | +1       |
 | CON     | 14    | +2       |
 | INT     | 7     | -2       |
@@ -79,7 +79,7 @@ _STR for non-finesse melee, DEX for finesse melee & ranged, spell varies by clas
 
 # Proficiency
 
-**Proficiency Bonus:** +3
+**Proficiency Bonus:** +4
 _See Character Advancement Table_
 
 ## Skills

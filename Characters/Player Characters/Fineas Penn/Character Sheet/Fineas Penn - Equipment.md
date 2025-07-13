@@ -21,9 +21,21 @@ GP: 50
 | Javelin (x2)                                           | 1d6 Piercing                                                                  | Thrown (range 30/120)       |
 | Unarmed                                                | 1 + Str                                                                       |                             |
 | Unarmed ([[Left Hand of the Foreman\|LHotF]] equipped) | 1d4 + Str + (1d8 Necrotic + 1 turn no healing IF target fails DC 12 Con Save) | 4 charges (3)               |
-Base damage comparison:::
-Pick: 6.5/attack avg dmg
-Hand: 8/attack avg dmg for +0 CON target -- target must be +4 CON for DPA to be < pick
+Damage Comparison, assuming Rage, for +8 to hit and +6 damage:
+CONCLUSION: It's basically always worth it currently to opt for the LHotF over the Pickaxe, given that the recipient takes Necrotic damage.
+
+Pickaxe damage by advantage state, assuming AC 18
+
+|                | Advantage | Normal | Disadvantage |
+| -------------- | --------- | ------ | ------------ |
+| Average Damage | 19.94     | 13.75  | 7.56         |
+LHotF damage by CON and advantage state, assuming AC 18
+
+| Avg. Damage  | 0     | +1    | +2    | +3    | +4    | +5    | +6    | +7    | +8    |
+| ------------ | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
+| Advantage    | 23.89 | 23.53 | 23.17 | 22.81 | 22.45 | 22.09 | 21.73 | 21.37 | 21.04 |
+| Normal       | 16.48 | 16.22 | 15.98 | 15.73 | 15.48 | 15.24 | 14.98 | 14.74 | 14.49 |
+| Disadvantage | 9.06  | 8.92  | 8.79  | 8.65  | 8.52  | 8.38  | 8.24  | 8.11  | 7.97  |
 
 # Items
 

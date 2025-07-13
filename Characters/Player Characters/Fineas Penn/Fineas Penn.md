@@ -26,7 +26,7 @@ Associated Articles:
 _he/him/his_
 **Age:** 35
 **Race:** Variant Human
-**Class & Level:** Level 7 [Barbarian](http://dnd5e.wikidot.com/barbarian), Level 1 Fighter
+**Class & Level:** Level 8 [Barbarian](http://dnd5e.wikidot.com/barbarian), Level 2 Fighter
 **Alignment:** Chaotic good(?)
 
 TODO: REWORK HISTORY,
