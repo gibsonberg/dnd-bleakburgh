@@ -2,9 +2,13 @@
 tags:
   - spell
 ---
-**Casting Time:** 1 action
-**Range:** 60 ft
-**Components:** V, S, M (a bit of fleece)
+Source: Player's Handbook
+
+_1st-level illusion_
+
+**Casting Time:** 1 action  
+**Range:** 60 feet  
+**Components:** V, S, M (a bit of fleece)  
 **Duration:** Concentration, up to 10 minutes
 
 You create the image of an object, a creature, or some other visible phenomenon that is no larger than a 15-foot cube. The image appears at a spot within range and lasts for the duration. The image is purely visual; it isn’t accompanied by sound, smell, or other sensory effects.
@@ -13,3 +17,4 @@ You can use your action to cause the image to move to any spot within range. As 
 
 Physical interaction with the image reveals it to be an illusion, because things can pass through it. A creature that uses its action to examine the image can determine that it is an illusion with a successful Intelligence (Investigation) check against your spell save DC. If a creature discerns the illusion for what it is, the creature can see through the image.
 
+**_Spell Lists._** [Bard](http://dnd5e.wikidot.com/spells:bard), [Sorcerer](http://dnd5e.wikidot.com/spells:sorcerer), [Wizard](http://dnd5e.wikidot.com/spells:wizard)

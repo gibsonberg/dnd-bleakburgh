@@ -2,9 +2,15 @@
 tags:
   - spell
 ---
-**Casting Time:** 1 action
-**Range:** Self
-**Components:** S, M (a small amount of makeup applied to the face as this spell is cast) 
+Source: Player's Handbook
+
+_Enchantment cantrip_
+
+**Casting Time:** 1 action  
+**Range:** Self  
+**Components:** S, M (a small amount of makeup applied to the face as this spell is cast)  
 **Duration:** Concentration, up to 1 minute
 
 For the duration, you have advantage on all Charisma checks directed at one creature of your choice that isn't hostile toward you. When the spell ends, the creature realizes that you used magic to influence its mood and becomes hostile toward you. A creature prone to violence might attack you. Another creature might seek retribution in other ways (at the DM's discretion), depending on the nature of your interaction with it.
+
+**_Spell Lists._** [Bard](http://dnd5e.wikidot.com/spells:bard), [Sorcerer](http://dnd5e.wikidot.com/spells:sorcerer), [Warlock](http://dnd5e.wikidot.com/spells:warlock), [Wizard](http://dnd5e.wikidot.com/spells:wizard)

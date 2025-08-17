@@ -2,10 +2,14 @@
 tags:
   - spell
 ---
-**Casting Time:** 1 Action
-**Range:** 10 feet
-**Components:** V, S
-**Duration:** Up to 1 hour 
+Source: Player's Handbook
+
+_Transmutation cantrip_
+
+**Casting Time:** 1 action  
+**Range:** 10 feet  
+**Components:** V, S  
+**Duration:** Up to 1 hour
 
 This spell is a minor magical trick that novice spellcasters use for practice. You create one of the following magical effects within range:
 - You create an instantaneous, harmless sensory effect, such as a shower of sparks, a puff of wind, faint musical notes, or an odd odor.
@@ -16,3 +20,5 @@ This spell is a minor magical trick that novice spellcasters use for practice. Y
 - You create a nonmagical trinket or an illusory image that can fit in your hand and that lasts until the end of your next turn.
 
 If you cast this spell multiple times, you can have up to three of its non-instantaneous effects active at a time, and you can dismiss such an effect as an action.
+
+**_Spell Lists._** [Artificer](http://dnd5e.wikidot.com/spells:artificer), [Bard](http://dnd5e.wikidot.com/spells:bard), [Sorcerer](http://dnd5e.wikidot.com/spells:sorcerer), [Warlock](http://dnd5e.wikidot.com/spells:warlock), [Wizard](http://dnd5e.wikidot.com/spells:wizard)

@@ -30,6 +30,8 @@ Jump to:
 	- [[Haralamb Carcosa - Features & Traits#Background|Background]]
 		- [[Haralamb Carcosa - Features & Traits#Far Traveler|Far Traveler]]
 			- [[Haralamb Carcosa - Features & Traits#All Eyes On You|All Eyes On You]]
+		- [[Haralamb Carcosa - Features & Traits#Feats|Feats]]
+			- [[Haralamb Carcosa - Features & Traits#Metamagic Adept|Metamagic Adept]]
 	- [[Haralamb Carcosa - Features & Traits#Other Features|Other Features]]
 
 # Flavor
@@ -194,6 +196,20 @@ Your accent, mannerisms, figures of speech, and perhaps even your appearance all
 
 You can parley this attention into access to people and places you might not otherwise have, for you and your traveling companions. Noble lords, scholars, and merchant princes, to name a few, might be interested in hearing about your distant homeland and people.
 
+### Feats
+#### Metamagic Adept
+(IF LEVEL 4 AND DON'T PICK +2CHA)
+You've learned how to exert your will on your spells to alter how they function:
+
+- You learn two [Metamagic options](http://dnd5e.wikidot.com/sorcerer#toc12) of your choice from the sorcerer class. You can use only one Metamagic option on a spell when you cast it, unless the option says otherwise. Whenever you reach a level that grants the Ability Score Improvement feature, you can replace one of these Metamagic options with another one from the sorcerer class.
+
+- You gain 2 sorcery points to spend on Metamagic (these points are added to any sorcery points you have from another source but can be used only on Metamagic). You regain all spent sorcery points when you finish a long rest.
+
+##### Metamagic Options
+##### Subtle Spell
+When you cast a spell, you can spend 1 sorcery point to cast it without any somatic or verbal components.
+##### Quickened Spell
+When you cast a spell that has a casting time of 1 action, you can spend 2 sorcery points to change the casting time to 1 bonus action for this casting.
 
 ## Other Features
 
