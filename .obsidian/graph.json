@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "-tag:#campaign -path:Templates  ",
+  "search": "-tag:#campaign -tag:#spell -path:Templates  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,

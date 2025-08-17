@@ -11,9 +11,97 @@ _he/him/his_
 **Age:**
 **Race:**
 **Class:**
-**Alignment:**
+**Alignment:** Lawful Neutral? True Neutral? Lawful Evil? Neutral Evil?
 
 This character is intended for a future murder mystery campaign set in [[Arulon]] prior to the modern era.
+
+Rough outline of backstory:
+- Born in the hinterlands of (insert place, probably edaweide) to a peasant family
+- Some event forces him to flee into the wilderness (equivalent of black forest deal?)
+- In his desperateness, he makes a deal with his patron (GOO, Archfey)
+	- This can be like a classic fairy tale sort of thing.
+		- https://en.wikipedia.org/wiki/Bearskin_(German_fairy_tale)
+	- e.g. he is starving and hears lilted music in the woods and comes across a fey feast; he awakens in an unknown realm and makes a deal with the king there (Carcosa), etc
+		- Maybe he falls asleep next to a lake and wakes up in a fey realm or something, and makes a deal with the fey there
+		- Maybe there is a "forest guardian" a la Leshy which one is supposed to appease or pray to prior to entering the forest but some event (invasion, etc.) forced him to enter the forest without doing it first, leading to needing to bargain with the guardian for safe passage
+	- His deal allows him to survive and grants him his abilities, but of course there must be some other end of the bargain. What does the patron get out of this?
+- He survives in the wilderness and makes his way to civilization
+- With his newfound abilities he is able to work his way eventually into Arulon, then the court there
+
+Name Considerations:
+- Romanian?
+	- First
+		- Laurentiu 
+		- Nicolae
+		- Artiom
+		- Lucian
+		- Traian
+		- Haralamb
+	- Nickname?
+		- Yefi (? can this be short for some other name? Mystery?)
+		- 
+	- Last
+		- Mihai
+		- Ionescu
+		- Nita
+		- Cosovei
+		- Draghici
+		- Carcosa (see: The King In Yellow)
+- Drafts:
+	- Haralamb Mihai
+		- "Harry" by the court?
+	- Haralamb Carcosa
+	- Laurentiu Draghici
+- May want two names: one publicly given and one that is his actual name even if it doesn't come up
+
+# Baseline Stats
+## Standard Array:
+
+| Ability | Value | Mod |
+| ------- | ----- | --- |
+| STR     | 8     | -1  |
+| DEX     | 14    | +2  |
+| CON     | 13    | +1  |
+| INT     | 12    | +1  |
+| WIS     | 10    | +0  |
+| CHA     | 15    | +2  |
+HP: 9 (lvl 1), 13 (lvl 2), 21 (lvl 3)
+
+## Random Gen:
+Rolled 17, 13, 11, 16, 16 14
+
+| Ability | Value | Mod |
+| ------- | ----- | --- |
+| STR     | 11    | +0  |
+| DEX     | 11    | +0  |
+| CON     | 13    | +1  |
+| INT     | 16    | +3  |
+| WIS     | 16    | +3  |
+| CHA     | 17    | +3  |
+*Note:* could shift hese around a bit for flavor.
+HP: 10 (lvl 1), 15 (lvl 2), 24 (lvl 3) 
+
+# Warlock
+Class Proficiencies:
+- **Armor:** Light Armor
+- **Weapons:** Simple Weapons
+- **Tools:** None
+- **Saving Throws:** Wisdom, Charisma
+- **Skills:** Choose 2 from: Arcana, Deception, History, Intimidation, Investigation, Nature, and Religion
+
+Starting Equipment:
+- 
+
+## GOOLock Build
+Patron: Great Old One
+
+## Archfey Build
+Patron: Archfey
+
+
+
+
+----------
 
 # Class Considerations
 Sam has stated that it's likely people in this campaign will generally be levels 1 to 3.
@@ -25,24 +113,12 @@ Could really work with almost any background.
 - If nobel, could have been given an offer or something
 - etc.
 ### Patron
-- Archfey
+- ***Archfey***
 	- Obviously thematically appropriate for the Imp thing going on with Arulon
-	- The actual ability isn't crazy useful unless it's discreet but the spells that come with it might be useful and overall pretty cool?
-- Fiend
-	- Spells:
-		- Command seems like it has a lot of potential, fitting for a Rasputin type that has weaseled into the courts?
-		- Blindness/Deafness
-	- The rest is a bit combat-focused for this campaign, probably
 - GOO
 	- Fun telepathic, mental fuckery spells. Dissonant Whipsers seems good and could potentially even be used without initiating combat?
 	- Awakened Mind -- telepathy in 30 ft visibility without need for spell or shared language
 	- Overall seems good for a mystic advisor
-- Raven Queen
-	- Spells are okay, whatever
-	- RAVEN COMPANION
-		- Telepathically send it commands & receive sight/hearing from it within 100 ft
-		- Adds CHA bonus to Perception checks & passive Perception
-		- Companion in combat
 
 ### Eldritch Invocation (if lvl 2)
 - Beguiling Influence
@@ -51,9 +127,6 @@ Could really work with almost any background.
 	- Really fitting to Rasputin type
 	- Opens up proficiency from other sources
 	- Can maybe just use those other sources
-- Book of Ancient Secrets (req: Pact of the Tome)
-	- Access to addl. spells as rituals
-	- Apparently can basically be used to replace several other invocations? Beast Speech, Eyes of the Rune Keeper, etc.
 - Devil's Sight
 	- See in darkness.
 	- Can use magical darkness (Darkness spell, etc.) to get advantage on people
@@ -118,7 +191,7 @@ Could really work with almost any background.
 
 ### Stats
 - STR
-	- Dumpz
+	- Dump
 - DEX
 	- Need for AC and probably some skills
 - CON
@@ -135,26 +208,33 @@ Could really work with almost any background.
 
 Overall, I'd say CHA > WIS = INT > DEX = CON > STR for this playthrough?
 
+Maybe dump INT and provide more for str/con/dex for this character to be more rp-y
+
 ### Pact Boon (if lvl 3)
 - Chain
 	- Familiars! Special types, too.
 	- Imp is basically the way to go for this by the sounds of it, if you want a scout.
 	- Quasit can kind of be a worse Imp, but it disguises as its own thing if that's needed
-- Tome
-	- MOAR CANTRIPS from any list. More utility.
-	- Could fit particularly well with Intelligentsia?
-	- Could maybe appear as a Wizard to those not aware that I am a Warlock.
-- Talisman
+- ***Talisman***
 	- I just like the idea of being able to essentially give myself a free Guidance via talisman
 
-### Feats?
+### Feats? See if able to take any
 - Metamagic Adept
 	- Heightened (disadvantage for target of spells making saves)
 	- Subtle (no verbal/somatic components)
 
 # Race Considerations
 
-asdf
+- Half-Elf
+	- Mechanically very good. +4 stats, versatility bonus, etc.
+	- Maybe a little overdone?
+- ***Goliath***
+	- Gets the "naturally large" vibe I want across
+	- Athletics prof. + counts as Large for matters of lifting ability, etc.
+	- "Look like they are carved out of stone" -- natural pallor?
+	- Naturally acclimated to cold and high altitudes. Can add some flavor
+	- Can shrug off some damage.
+	- Look into Goliath lore. Very competitive -- tally every win and loss? Could act as reasoning for looking to a higher power for advantage.
 
 # Background, Feats
 
