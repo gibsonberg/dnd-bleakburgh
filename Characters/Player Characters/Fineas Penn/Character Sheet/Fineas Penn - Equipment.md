@@ -18,9 +18,9 @@ GP: 50
 | ------------------------------------------------------ | ----------------------------------------------------------------------------- | --------------------------- |
 | Pickaxe (Greataxe)                                     | 1d12 Piercing                                                                 | Heavy, two-handed           |
 | Light Hammer                                           | 1d4 Bludgeoning                                                               | Light, thrown (range 20/60) |
-| Javelin (x2)                                           | 1d6 Piercing                                                                  | Thrown (range 30/120)       |
+| Javelin (x0)                                           | 1d6 Piercing                                                                  | Thrown (range 30/120)       |
 | Unarmed                                                | 1 + Str                                                                       |                             |
-| Unarmed ([[Left Hand of the Foreman\|LHotF]] equipped) | 1d4 + Str + (1d8 Necrotic + 1 turn no healing IF target fails DC 12 Con Save) | 4 charges (3)               |
+| Unarmed ([[Left Hand of the Foreman\|LHotF]] equipped) | 1d4 + Str + (1d8 Necrotic + 1 turn no healing IF target fails DC 12 Con Save) | 4 charges (4)               |
 Damage Comparison, assuming Rage, for +8 to hit and +6 damage:
 CONCLUSION: It's basically always worth it currently to opt for the LHotF over the Pickaxe, given that the recipient takes Necrotic damage.
 

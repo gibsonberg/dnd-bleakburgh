@@ -17,7 +17,7 @@ Jump to:
 		- [[Fineas Penn - Features & Traits#Second Wind (from Level 1 Fighter)|Second Wind]]
 		- [[Fineas Penn - Features & Traits#Action Surge (from Level 2 Fighter)|Action Surge]]
 		- [[Fineas Penn - Features & Traits#Barbarian|Barbarian]]
-		- [[Fineas Penn - Features & Traits#Rage|Rage]]
+		- [[Fineas Penn - Features & Traits#Rage (from Level 1 Barbarian)|Rage]]
 		- [[Fineas Penn - Features & Traits#Unarmored Defense|Unarmored Defense]]
 		- [[Fineas Penn - Features & Traits#Primal Knowledge|Primal Knowledge]]
 		- [[Fineas Penn - Features & Traits#Ability Score Improvement (Barbarian)|Ability Score Improvement]]
@@ -87,7 +87,7 @@ http://dnd5e.wikidot.com/barbarian
 
 | Quantity      | Value |
 | ------------- | ----- |
-| Maximum Rages | 4     |
+| Maximum Rages | 3     |
 | Current Rages | 4     |
 _Expend one per rage, regain 1 per SR or all per LR._
 **Rage Damage:** +2
