@@ -9,7 +9,7 @@ _he/him/his_
 **Class:** Bard
 **Alignment:**
 
-Freddy Faazbare is a popular musician from [[Sundance]]. Faazbare perished in the bombing of Sundance.
+Freddy Faazbare is a popular musician from [[Sundance]]. Faazbare survived the bombing of Sundance, though it was initially assumed that he had perished.
 
 # Campaign Events
 
@@ -31,3 +31,4 @@ Freddy Faazbare is a popular musician from [[Sundance]]. Faazbare perished in th
 
 - [[Dungeons and Deserts]]
 	- [[2024-12-19 In Passing]] (mentioned)
+	- [[2025-08-24 Homecoming]]

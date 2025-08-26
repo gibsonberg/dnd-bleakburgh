@@ -8,7 +8,7 @@ Campaign: [[Dungeons and Deserts]]
 Setting: [[Bastle]]
 
 Previous Session: [[2025-05-11 Hole in the World]] 
-Next Session: [[2025-08-24]]
+Next Session: [[2025-08-24 Homecoming]]
 
 # Synopsis
 

@@ -7,7 +7,7 @@ tags:
 Campaign: [[Dungeons and Deserts]]
 Setting: [[Darton]]
 
-Previous Session: [[2025-07-12]]
+Previous Session: [[2025-07-12 End of the Line]]
 
 # Synopsis
 
