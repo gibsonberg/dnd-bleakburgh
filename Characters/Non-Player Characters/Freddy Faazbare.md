@@ -29,5 +29,5 @@ Freddy Faazbare is a popular musician from [[Sundance]]. Faazbare perished in th
 
 # Campaigns Featured
 
-- [[First Campaign]]
+- [[Dungeons and Deserts]]
 	- [[2024-12-19 In Passing]] (mentioned)

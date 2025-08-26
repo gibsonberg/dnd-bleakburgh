@@ -29,5 +29,5 @@ Dr. Brenner is a psychiatrist (talkyfeelytrist) in [[Sundance]].
 
 # Sessions Featured
 
-- [[First Campaign]]
+- [[Dungeons and Deserts]]
 	- [[2024-12-19 In Passing]]

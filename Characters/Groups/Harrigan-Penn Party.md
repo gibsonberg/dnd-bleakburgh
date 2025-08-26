@@ -31,5 +31,5 @@ The [[Silverton Resistance]] and the Party share mixed relations. Generally, the
 
 # Campaigns Featured
 
-- [[First Campaign]]
+- [[Dungeons and Deserts]]
 	- All sessions. They are the main characters of this campaign.

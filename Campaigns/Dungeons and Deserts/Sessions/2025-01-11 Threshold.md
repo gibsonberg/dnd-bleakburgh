@@ -4,7 +4,7 @@ tags:
   - session
 ---
 
-Campaign: [[First Campaign]]
+Campaign: [[Dungeons and Deserts]]
 Setting: [[Sundance]] outskirts, [[Wolf's Spine Gorge]], Tokwa ruins
 
 Previous Session: [[2024-12-29 Best-Laid Plans]]

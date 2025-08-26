@@ -1,5 +1,5 @@
 
-- Revisit [[First Campaign]] sessions and rewrite [[2024-12-19 In Passing]] and prior:
+- Revisit [[Dungeons and Deserts]] sessions and rewrite [[2024-12-19 In Passing]] and prior:
 	- [ ] [[2024-09-28 Prickly Beginnings]]
 	- [ ] [[2024-10-05 Two Rows]]
 	- [ ] [[2024-10-19 Low Bar]]

@@ -15,7 +15,7 @@ Sundance is a city in [[Bleakburgh]]. Sundance is one of the westernmost settlem
 The de facto mayor of Sundance is [[Annabella Monroe]].
 # Campaigns Featured
 
-- [[First Campaign]]
+- [[Dungeons and Deserts]]
 	- [[2024-09-28 Prickly Beginnings]] (character origin)
 	- [[2024-12-19 In Passing]]
 	- [[2024-12-29 Best-Laid Plans]]

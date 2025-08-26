@@ -14,7 +14,7 @@ Alistaire Hayes is a bard from [[Arulon]] and a minor member of the [[Harrigan-P
 
 # Campaign Events
 
-In the [[First Campaign]], Alistaire was introduced to the [[Harrigan-Penn Party|Harrigan-Penn Party]] in [[Silverton]] while he was setting up with the [[Silverton Resistance]].
+In the [[Dungeons and Deserts]], Alistaire was introduced to the [[Harrigan-Penn Party|Harrigan-Penn Party]] in [[Silverton]] while he was setting up with the [[Silverton Resistance]].
 
 # Appearance
 
@@ -30,7 +30,7 @@ Alistaire hails originally from [[Arulon]]. While in Aurelon, Alistaire gambled 
 
 # Campaigns Featured
 
-- [[First Campaign]]
+- [[Dungeons and Deserts]]
 	- [[2025-02-03 Meeting Resistance]]
 	- [[2025-02-10 Sewer Run]]
 	- [[2025-03-24 Goodbyes]]

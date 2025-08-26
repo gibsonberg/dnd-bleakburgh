@@ -31,7 +31,7 @@ During his travels in Bleakburgh, it was posited that he managed to survive his 
 
 # Campaigns Featured
 
-- [[First Campaign]]
+- [[Dungeons and Deserts]]
 	- [[2024-12-01 Regression]]
 	- [[2024-12-19 In Passing]]
 	- [[2024-12-29 Best-Laid Plans]]

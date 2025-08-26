@@ -14,5 +14,5 @@ Large Scorpions do not appear to be sentient, though they are capable of recogni
 
 # Campaigns Featured
 
-- [[First Campaign]]
+- [[Dungeons and Deserts]]
 	- [[2024-12-19 In Passing]]

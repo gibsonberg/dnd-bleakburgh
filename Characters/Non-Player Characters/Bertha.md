@@ -13,6 +13,6 @@ Bertha has yet to be formally introduced to [[Harrigan-Penn Party]]. Every time 
 
 # Campaigns Featured
 
-- [[First Campaign]]
+- [[Dungeons and Deserts]]
 	- [[2024-10-05 Two Rows]] (mentioned)
 	- [[2024-10-19 Low Bar]] (mentioned)

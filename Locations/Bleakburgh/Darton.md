@@ -7,7 +7,7 @@ In [[Bleakburgh]]
 
 # Campaigns Featured
 
-- [[First Campaign]]
+- [[Dungeons and Deserts]]
 	- [[2024-11-09 Connections]] (shown to [[Fineas Penn]] via [[Mushroom Idol|mushroom]] visions)
 	- [[2024-12-29 Best-Laid Plans]] (discussed in book)
 

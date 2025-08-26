@@ -15,7 +15,7 @@ The Chaplain is capable of spellcasting, having utilized some holding spell on [
 
 # Campaign Events
 
-During the [[First Campaign]], The Cardinal was seen as the leader of a roving band of crusaders. He met with [[Harrigan-Penn Party]] outside of [[Beatstone]] and attempted to convert [[Fineas Penn]] and [[Pony Harrigan]]. Upon Pony destroying the conversion tent, The Cardinal combated the party in the wastes in the outskirts of the town. While the party succeeded in killing The Cardinal's horse and destroyed his encampment, The Cardinal was not defeated, simply allowing the party to leave.
+During the [[Dungeons and Deserts]], The Cardinal was seen as the leader of a roving band of crusaders. He met with [[Harrigan-Penn Party]] outside of [[Beatstone]] and attempted to convert [[Fineas Penn]] and [[Pony Harrigan]]. Upon Pony destroying the conversion tent, The Cardinal combated the party in the wastes in the outskirts of the town. While the party succeeded in killing The Cardinal's horse and destroyed his encampment, The Cardinal was not defeated, simply allowing the party to leave.
 
 # Appearance
 
@@ -31,6 +31,6 @@ During the [[First Campaign]], The Cardinal was seen as the leader of a roving b
 
 # Campaigns Featured
 
-- [[First Campaign]]
+- [[Dungeons and Deserts]]
 	- [[2024-11-25 Religious Trauma]]
 	- [[2025-02-03 Meeting Resistance]]

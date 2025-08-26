@@ -26,5 +26,5 @@ The church of Bastle is a single-room structure with just around 10 rows of pews
 
 # Campaigns Featured
 
-- [[First Campaign]]
+- [[Dungeons and Deserts]]
 	- [[2025-05-11 Hole in the World]]

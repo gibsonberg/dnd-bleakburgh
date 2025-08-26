@@ -30,5 +30,5 @@ Robed in plain, burlap-like cloth. No facial hair, just incredibly smooth, like 
 
 # Campaigns Featured
 
-- [[First Campaign]]
+- [[Dungeons and Deserts]]
 	- [[2024-12-29 Best-Laid Plans]]

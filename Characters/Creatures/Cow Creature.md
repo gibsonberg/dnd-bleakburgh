@@ -17,6 +17,6 @@ The group harvesting resources from the Cow Creature appear to be wearing indust
 
 # Campaigns Featured
 
-- [[First Campaign]]
+- [[Dungeons and Deserts]]
 	- [[2024-10-05 Two Rows]]
 	- [[2024-10-19 Low Bar]] (discussed)

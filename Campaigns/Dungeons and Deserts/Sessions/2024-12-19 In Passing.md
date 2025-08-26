@@ -4,7 +4,7 @@ tags:
   - session
 ---
 
-Campaign: [[First Campaign]]
+Campaign: [[Dungeons and Deserts]]
 Setting: [[Wolf's Spine Gorge]], [[Sundance]]
 
 Previous Session: [[2024-12-01 Regression]]

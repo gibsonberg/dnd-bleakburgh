@@ -34,7 +34,7 @@ Mary and Shelley are a two-headed opossum pet and companion of Lark. They are of
 
 # Campaigns Featured
 
-- [[First Campaign]]
+- [[Dungeons and Deserts]]
 	- [[2024-09-28 Prickly Beginnings]]
 	- [[2024-10-05 Two Rows]]
 	- [[2024-10-19 Low Bar]]

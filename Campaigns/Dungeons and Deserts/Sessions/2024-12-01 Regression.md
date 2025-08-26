@@ -4,7 +4,7 @@ tags:
   - session
 ---
 
-Campaign: [[First Campaign]]
+Campaign: [[Dungeons and Deserts]]
 Setting: [[Wolf's Spine Gorge]]
 
 Previous Session: [[2024-11-25 Religious Trauma]]

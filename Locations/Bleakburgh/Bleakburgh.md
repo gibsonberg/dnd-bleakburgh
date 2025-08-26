@@ -5,7 +5,7 @@ tags:
 ---
 ![[Bleakburgh Map.png]]
 
-Bleakburgh is the region in which the events of the [[First Campaign]] take place.
+Bleakburgh is the region in which the events of the [[Dungeons and Deserts]] take place.
 
 # Sessions Featured
 

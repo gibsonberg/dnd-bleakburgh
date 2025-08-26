@@ -4,7 +4,7 @@ tags:
   - session
 ---
 
-Campaign: [[First Campaign]]
+Campaign: [[Dungeons and Deserts]]
 Setting: [[Sundance]]
 
 Previous Session: [[2024-12-19 In Passing]]

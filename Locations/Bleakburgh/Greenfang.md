@@ -20,7 +20,7 @@ Once inhabited by a group of sustainable stewards and later by major agricultura
 Resources have been consolidated in the center surrounding some of the larger industrial structures constructed during the industrial revolution. Most of these buildings are still largely boarded shut and no longer serve their original purpose, but civilization has been adapted to work with these remnants.
 # Campaigns Featured
 
-- [[First Campaign]]
+- [[Dungeons and Deserts]]
 	- [[2024-09-28 Prickly Beginnings]]
 	- [[2024-10-05 Two Rows]]
 	- [[2024-10-19 Low Bar]]
@@ -28,7 +28,7 @@ Resources have been consolidated in the center surrounding some of the larger in
 
 # Campaign Events
 
-During the events of the [[First Campaign]], Greenfang was briefly visited by the [[Harrigan-Penn Party]] after leaving the [[Great Cactus Forest]]. The party originally sheltered in an abandoned building on the outskirts, but after meeting the [[Greenfang Patrol]], they were given permission to shelter in the [[Greenfang#The Tavern|tavern]]. After hearing strange noises and getting little detail from the Patrol, the party snuck out of their lodging at night to scope out the town, discovering the [[Greenfang#Industrial Building|industrial building]] containing the [[Cow Creature]]. The poor relations between the party and the Patrol came to a head in a scuffle resulting in a party victory. The party was forced to flee from the town.
+During the events of the [[Dungeons and Deserts]], Greenfang was briefly visited by the [[Harrigan-Penn Party]] after leaving the [[Great Cactus Forest]]. The party originally sheltered in an abandoned building on the outskirts, but after meeting the [[Greenfang Patrol]], they were given permission to shelter in the [[Greenfang#The Tavern|tavern]]. After hearing strange noises and getting little detail from the Patrol, the party snuck out of their lodging at night to scope out the town, discovering the [[Greenfang#Industrial Building|industrial building]] containing the [[Cow Creature]]. The poor relations between the party and the Patrol came to a head in a scuffle resulting in a party victory. The party was forced to flee from the town.
 
 The party later encountered the [[Crusaders of Eve|Eve's Cathars]] while fleeing from the Patrol's search party. This resulted in a conflict between the Cathars and the party resulting in mass chaos. The party was eventually given the opportunity to flee by the arrival of the Patrol's search party confronting the Cathars over the party. This confrontation lead to the near-complete destruction of the Greenfang Patrol, save for [[Deputy Arnold]], who eventually became a member of the party. It is presumed that Greenfang suffered harsh retribution at the hands of the Cathars, though this has not been verified.
 

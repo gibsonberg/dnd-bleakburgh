@@ -30,7 +30,7 @@ Jonas Finnegan is an older man, a little bit deaf.
 
 # Campaigns Featured
 
-- [[First Campaign]]
+- [[Dungeons and Deserts]]
 	- [[2024-12-29 Best-Laid Plans]] (mentioned)
 	- [[2025-01-26 Hospitality]]
 	- [[2025-02-03 Meeting Resistance]]

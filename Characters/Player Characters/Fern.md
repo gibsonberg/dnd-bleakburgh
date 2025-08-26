@@ -30,7 +30,7 @@ woman 40s-50s, a little pudgy, burn marks on his arms
 
 # Campaigns Featured
 
-- [[First Campaign]]
+- [[Dungeons and Deserts]]
 	- [[2025-01-26 Hospitality]]
 	- [[2025-02-03 Meeting Resistance]]
 	- [[2025-02-10 Sewer Run]]

@@ -4,7 +4,7 @@ tags:
   - session
 ---
 
-Campaign: [[First Campaign]]
+Campaign: [[Dungeons and Deserts]]
 Setting: [[Bastle]]
 
 Previous Session: [[2025-04-06 Bugging]]

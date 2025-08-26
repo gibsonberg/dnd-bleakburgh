@@ -20,5 +20,5 @@ After the Hydra's death, the party reportedly was freed from any altered-time ef
 
 # Campaigns Featured
 
-- [[First Campaign]]
+- [[Dungeons and Deserts]]
 	- [[2024-09-28 Prickly Beginnings]]

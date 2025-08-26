@@ -4,7 +4,7 @@ tags:
   - session
 ---
 
-Campaign: [[First Campaign]]
+Campaign: [[Dungeons and Deserts]]
 Setting: Tokwa ruins 
 
 Previous Session: [[2025-01-11 Threshold]]

@@ -13,5 +13,5 @@ Chimeras do not appear to be sentient, though they are intelligent enough to rea
 
 # Campaigns Featured
 
-- [[First Campaign]]
+- [[Dungeons and Deserts]]
 	- [[2024-12-19 In Passing]]

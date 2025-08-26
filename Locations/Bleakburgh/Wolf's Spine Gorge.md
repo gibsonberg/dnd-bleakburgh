@@ -14,7 +14,7 @@ Wolf's Spine Gorge is a geographic feature in [[Bleakburgh]].
 
 # Campaigns Featured
 
-- [[First Campaign]]
+- [[Dungeons and Deserts]]
 	- [[2024-12-01 Regression]]
 	- [[2024-12-19 In Passing]]
 

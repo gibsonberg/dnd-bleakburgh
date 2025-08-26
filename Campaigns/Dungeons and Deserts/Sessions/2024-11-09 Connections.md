@@ -4,7 +4,7 @@ tags:
   - session
 ---
 
-Campaign: [[First Campaign]]
+Campaign: [[Dungeons and Deserts]]
 Setting: [[Beatstone]] 
 
 Previous Session: [[2024-10-19 Low Bar]]

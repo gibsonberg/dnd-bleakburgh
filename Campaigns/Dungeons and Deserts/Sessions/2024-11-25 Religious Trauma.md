@@ -4,7 +4,7 @@ tags:
   - session
 ---
 
-Campaign: [[First Campaign]]
+Campaign: [[Dungeons and Deserts]]
 Setting: [[Beatstone]] outskirts, Desert, [[Wolf's Spine Gorge]]
 
 Previous Session: [[2024-11-09 Connections]]

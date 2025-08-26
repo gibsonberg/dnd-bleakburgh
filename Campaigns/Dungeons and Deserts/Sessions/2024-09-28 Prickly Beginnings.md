@@ -3,7 +3,7 @@ tags:
   - session
   - campaign
 ---
-Campaign: [[First Campaign]]
+Campaign: [[Dungeons and Deserts]]
 Setting: [[Great Cactus Forest]], [[Greenfang]]
 
 This session is the first in this campaign.

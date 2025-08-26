@@ -4,7 +4,7 @@ tags:
   - session
 ---
 
-Campaign: [[First Campaign]]
+Campaign: [[Dungeons and Deserts]]
 Setting: [[Silverton]]
 
 Previous Session: [[2025-01-19 Tunnel Visions]]
