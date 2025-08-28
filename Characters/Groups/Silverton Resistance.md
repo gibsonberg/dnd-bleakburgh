@@ -12,7 +12,7 @@ The Silverton Resistance actively works to overthrow the authoritarian rule of [
 # Members
 
 - [[Ainsley]]
-- [[Fern]] (formerly, left [[2025-03-24 Goodbyes]] to join the [[Harrigan-Penn Party|Harrigan-Penn Party]])
+- [[Fern Furnifer]] (formerly, left [[2025-03-24 Goodbyes]] to join the [[Harrigan-Penn Party|Harrigan-Penn Party]])
 - [[The Authors]]
 	- Jonah
 	- ?

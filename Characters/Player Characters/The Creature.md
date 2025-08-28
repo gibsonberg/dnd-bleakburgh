@@ -1,7 +1,7 @@
 ---
 tags:
   - character
-  - non-player
+  - player
 ---
 ![[newchar.jpeg|400]]
 _it/its/its_

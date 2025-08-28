@@ -23,7 +23,7 @@ Next Session: [[2025-02-03 Meeting Resistance]]
 	- Lark spots a jewel-encrusted teapot with a mark of an hourglass and decides to try the door. It's locked.
 		- Lark and Pony argue quietly and Lark enters the house and shuts the door behind him before Pony can get a word in
 		- He smells food that remind him of his past but he doesn't dwell on it
-		- He looks for people. [[Fern]] enters and Lark immediately tries to stab her with the Chimera Tooth dagger
+		- He looks for people. [[Fern Furnifer]] enters and Lark immediately tries to stab her with the Chimera Tooth dagger
 		- She simply stops him from doing so. Lark yells for Pony, who barges through the door aiming his arm
 		- Jim, who is on the roof, dives down the chimney without looking. It's lit. He falls directly into the fire, yelping.
 		- Fineas is sitting against the wall of the house, humming to himself, while this is all going on.

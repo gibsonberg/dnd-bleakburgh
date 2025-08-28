@@ -2,6 +2,9 @@
 tags:
   - character
   - non-player
+aliases:
+  - Cheryl and Jonas
+  - Cheryl Still and Jonas Finnegan
 ---
 _he/him/his_ (Jonas Finnegan)
 _she/her/hers_ (Cheryl Still)

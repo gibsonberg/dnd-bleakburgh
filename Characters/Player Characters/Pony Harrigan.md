@@ -50,7 +50,8 @@ Pony Harrigan is bisexual.
 	- [[2025-03-24 Goodbyes]]
 	- [[2025-04-06 Bugging]]
 	- [[2025-05-11 Hole in the World]]
-	- 
+	- [[2025-07-12 End of the Line]]
+	- [[2025-08-24 Homecoming]]
 
 
 

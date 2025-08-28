@@ -10,9 +10,9 @@ Jump to:
 - [[Location#Politics|Politics]]
 - [[Location#Sub-locations|Sub-locations]]
 
-Sundance is a city in [[Bleakburgh]]. Sundance is one of the westernmost settlements, and is the largest organized community of survivors of the Void Calamity. Sundance has becomes a cultural hub for arts.
+Sundance is a city in [[Bleakburgh]]. Sundance is one of the westernmost settlements, and was once the largest organized community of survivors of the Void Calamity. Sundance was historically a cultural hub for arts. Sundance suffered a bombing by the [[Evaweide|Evaweiden]] air force, and has since been in a state of reconstruction.
 
-The de facto mayor of Sundance is [[Annabella Monroe]].
+The de facto mayor of Sundance was [[Annabella Monroe]].
 # Campaigns Featured
 
 - [[Dungeons and Deserts]]
@@ -21,6 +21,7 @@ The de facto mayor of Sundance is [[Annabella Monroe]].
 	- [[2024-12-29 Best-Laid Plans]]
 	- [[2025-01-11 Threshold]] (outskirts)
 	- [[2025-01-19 Tunnel Visions]] (destruction viewed)
+	- [[2025-08-24 Homecoming]]
 
 # Campaign Events
 

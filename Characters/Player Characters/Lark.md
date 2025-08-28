@@ -7,7 +7,7 @@ aliases:
 ---
 _he/him/his_
 Age: 15
-Race: Dwarf (human child)
+Race: Dwarf? (human child)
 Class: Rogue
 
 Lark is a member of [[Harrigan-Penn Party]].
@@ -53,4 +53,5 @@ Mary and Shelley are a two-headed opossum pet and companion of Lark. They are of
 	- [[2025-03-24 Goodbyes]]
 	- [[2025-04-06 Bugging]]
 	- [[2025-05-11 Hole in the World]]
-	- 
+	- [[2025-07-12 End of the Line]]
+	- [[2025-08-24 Homecoming]]

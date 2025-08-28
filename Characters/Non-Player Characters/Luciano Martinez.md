@@ -13,7 +13,7 @@ Luciano Martinez is a guitarist from [[Bastle]]. He is often found playing music
 
 # Campaign Events
 
-In the events of the [[Dungeons and Deserts]], [[Pony Harrigan]] first attempts to give Luciano a fake tip of one gold piece. Luciano sees through it immediately and calls Harrigan out, causing him to immediately switch it out for a real gold piece. They and [[Fern]] talk at the bar, and Luciano shows Pony good will while stating that he's lucky he didn't do this to someone else first in a town such as Bastle. He discusses town history with the pair. After leaving the bar and meeting up with the rest of the gang, he begs them to behave themselves in the town's church in front if his abuela.
+In the events of the [[Dungeons and Deserts]], [[Pony Harrigan]] first attempts to give Luciano a fake tip of one gold piece. Luciano sees through it immediately and calls Harrigan out, causing him to immediately switch it out for a real gold piece. They and [[Fern Furnifer]] talk at the bar, and Luciano shows Pony good will while stating that he's lucky he didn't do this to someone else first in a town such as Bastle. He discusses town history with the pair. After leaving the bar and meeting up with the rest of the gang, he begs them to behave themselves in the town's church in front if his abuela.
 
 # Appearance
 

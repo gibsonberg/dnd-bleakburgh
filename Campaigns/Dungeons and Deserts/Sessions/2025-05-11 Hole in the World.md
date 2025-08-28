@@ -30,7 +30,7 @@ Next Session:
 		- There's a church of Eve that's mostly untouched by the worst criminals
 - We decide to split into three groups:
 	- Lark, [[Maisie Penn|Maisie]], [[Deputy Arnold|Arnold]], Alistair going to church
-	- Pony and [[Fern]] are going to talk to townspeople in general (at the saloon?)
+	- Pony and [[Fern Furnifer]] are going to talk to townspeople in general (at the saloon?)
 	- [[Slim Jim]] and [[Fineas Penn|Fineas]] going to town hall to talk to the gang
 - We learn about a [[Time Loop|time loop]] of like a minute and a half of two people having the same transaction
 - We head into town

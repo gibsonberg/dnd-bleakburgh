@@ -9,9 +9,9 @@ _he/him/his_
 **Class:**
 **Alignment:**
 
-The Cardinal is a high-ranking member of the [[Crusaders of Eve]]. He is known to travel with a large party of Cathars.
+The Cardinal was a high-ranking member of the [[Crusaders of Eve]]. He was known to travel with a large party of Cathars.
 
-The Chaplain is capable of spellcasting, having utilized some holding spell on [[Fineas Penn]] and an electrical spell to destroy a tower around the perimeter of [[Beatstone]].
+The Chaplain was capable of spellcasting, having utilized some holding spell on [[Fineas Penn]] and an electrical spell to destroy a tower around the perimeter of [[Beatstone]].
 
 # Campaign Events
 
@@ -34,3 +34,4 @@ During the [[Dungeons and Deserts]], The Cardinal was seen as the leader of a ro
 - [[Dungeons and Deserts]]
 	- [[2024-11-25 Religious Trauma]]
 	- [[2025-02-03 Meeting Resistance]]
+	- [[2025-08-24 Homecoming]]

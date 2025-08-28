@@ -1,7 +1,9 @@
 ---
 tags:
   - character
-  - non-player
+  - player
+aliases:
+  - Fern
 ---
 ![[newchar.jpeg|400]]
 _pronouns_
@@ -37,4 +39,5 @@ woman 40s-50s, a little pudgy, burn marks on his arms
 	- [[2025-03-24 Goodbyes]]
 	- [[2025-04-06 Bugging]]
 	- [[2025-05-11 Hole in the World]]
-	- 
+	- [[2025-07-12 End of the Line]]
+	- [[2025-08-24 Homecoming]]
