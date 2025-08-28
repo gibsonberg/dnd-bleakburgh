@@ -11,60 +11,20 @@ Previous Session: [[2025-07-12 End of the Line]]
 
 # Synopsis
 
-- We find ourselves in the vast, starless field past the Darton boundary.
-	- We see a far-off island in the midst of nothing. A woman wrapped in vegetation, in pain, bearing the weight of the city on her shoulders.
-- Pony pilots the train towards it.
-	- He (nat 20) feels a shift in the motion of the train. As soon as it broke through & the heat shield dissipated, it's now relying mostly on inertia and the tracks are flickering.
-		- He needs to crash land
-	- The island out there is Darton, it's like the size of NYC.
-	- Pony spots a courtyard that looks like it once held a marketplace.
-		- The city appears to have warped somehow. It's being pulled into a point at the center vertically. The vegetation seems denser here.
-		- The landing spot is about half a day's travel from the center.
-		- "This is your captain speaking. Please take a seat, buckle your seatbelts, we're going to be having a bumpy landing."
-			- Lark questions what a seatbelt is. Maisie feels oddly more at ease. This isn't a reference to anything because Pony has never flown.
-		- The train comes in to land.
-			- Pony finds the emergency break lever and the trains slows in the air. THey get a foot off the ground before it just falls and hits the courtyard.
-		- We examine our surroundings.
-			- I see that there's regular vegetation that grows here, but it is warped. Things narrow and balloon. There is mushroom fungal blooms in many spaces. A pair of fingers are peeking past some foliage, someone or something is looking at us.
-			- Lark baits one of the randoms to step off the train first. Lark tells him to take a few steps forward and asks how he feels. He is confused.
-			- Fineas walks towards where the figure was. He ducks around the corner.
-				- I see a humanoid figure, twisted, blooming with fungus around the extremities, rot creeping in. This person doesn't have a mouth, but there are strange indents and cavities with teeth.
-				- This thing is scared of me.
-				- I approach it with some food from my bag. A hand, split in two, reaches out and grabs the food and eats it through a pocket in its skin and just looks up at me.
-			- Lark looks around immediately off the train.
-				- It seems like a lot of things are undisturbed for a very long time. Dust covers most surfaces. He sees some spots where splatters of blood have coated passageways.
-			- Slim Jim observes his surroundings.
-				- He notices he his much more scattered internally here. Many different sets of thoughts. Two distinct pitches of human voices bickering about where to go in his mind.
-			- Fern observes her surroundings.
-				- Being here feels intense. Constant, external pressure, like someone gripping her forearm.
-		- Fineas is going to sit down.
-			- The thing seems to recognize.
-			- I call out to the group.
-			- A few of them round the corner and comment on how ugly it is.
-			- It seems to not be able to parse Common.
-			- Lark tries talking slower to it. He tries ad hoc hand signs.
-			- It looks around and darts off into the city.
-				- Lark looks around for what it saw.
-				- It scampers around the corner and Lark sees lots of little fingers and pairs (clusters) of eyes looking out.
-		- Pony examines the blood. It's about a week and a half old. Pony also detects smashed vials and tubing.
-		- Lark and Pony wave at the group of beings.
-			- Fern gives one of them a pastry, which it takes readily.
-		- Lark looks for an important building. All of them seem about the same.
-			- He asks about important buildings or areas. He inquires about historically-important buildings.
-			- Lark looks around at the state of ruin of the city and deduces that just about any amenities that once served a purpose is no longer fully intact.
-			- The spire at the center, now that we're on the ground and closer to it, carries a stamen-like shape. It's like it's some sort of massive fungal growth.
-		- We try to figure out if we should leave at the train and if so, who.
-			- Arnold is coming with. Carlos is coming with.
-			- Lark convinces Arnold to guard the train because he's hit about 2 shots total.
-			- Alistair is watching the train. He starts chatting up Arnold about theater.
-			- There's further discussion on if we even should be leaving them.
-			- Pony investigates the train with Lark's assistance. The train isn't starting right now. That's all he can tell.
-			- We deduce it's probably not safer to leave them behind. Two randoms stay with the train. Everybody else joins us.
-		- The group starts walking through the city.
-			- We see that wherever we go, the little fingers and eyes watching us are ever-presenter.
-				- Fern and Jim give insight.
-					- Slim Jim is too distracted. The voices are sounding more distinct. His thoughts are not entirely his own.
-					- Fern looks at the things and notices how there are little bits of cloth wrapped up in some of their folds. These must have been the original inhabitants of Darton. They have been here for hundreds of years.
+The party breaks through the field surrounding the area where [[Darton]] once stood. As they look from their train, they see a vast, starless field and a city in the distance in the midst of a great nothing. [[Eve|A woman]] wrapped in some sort of vegetation painfully bears the weight of the city on her shoulders. [[Pony Harrigan|Pony]] feels a shift in the motion of the train and immediately knows it's relying almost entirely on inertia to continue moving. The rails it builds for itself sputter, and he knows he needs to crash land. He deftly (on a natural 20) pilots the train towards Darton. He spots a courtyard, once upon a time a market plaza. "This is your captain speaking. Please take a seat, buckle your seatbelts, we're going to be having a bumpty landing," Pony says. Everyone looks around in confusion; nobody here has flown, nobody here knows what a seatbelt is. [[Lark]] questions it, [[Maisie Penn|Maisie]] expresses an odd sense of ease. As the train comes in for a landing in the plaza, the city appears pulled into a narrow spire near its center, as though someone was pinching dough. The same strange "vegetation," now clearly fungal in nature, permeates the city. The train comes within a foot of a gentle landing before falling abruptly from its failing spectral tracks.
+
+[[Harrigan-Penn Party|The party]] emerges from the train and looks around themselves. The courtyard is roughly a half day's walk from the central spire. Lark baits one of the randoms who had joined the party for the excursion off the train first, expecting him to succumb to some awful fate. When he stands there, confused but unharmed, Lark plays it off as nothing. [[Fineas Penn|Fineas]] notices that there is regular vegation that grows here, too, but it's warped and twisted. The fungal foliage blooms. A pair of fingers are wrapped around some plant matter, the owner's eyes just barely peeking around a corner. Fineas notices this and exclaims, chasing the spying thing as it darts around the corner.
+
+Fineas rounds the corner and spots the thing, stanced and watching him. Its humanoid form twists and twitches. Fungus blooms from the extremities, rot creeping in. This "person" doesn't have a mouth, but rather varied indents and cavities lined with teeth that all could feasibly take that name. Fineas takes a defensive stance. He watches it closely, and realizes that *it* is scared of *him*. He relaxes his posture and approaches with a piece of food from his rations, which the creature eagerly consumes. Fineas moves to sit down, and the creature cautiously sits with him.
+
+Back at the train, Lark examines his surroundings. Dust covers most surfaces. Off in the passageways of some nearby buildings, he spots splatters of blood; the only recent changes this place has seen in a long, long time. [[Slim Jim]] tries to observe, but feels internally scattered; two distinct pitches of human voice bicker over where to go within his mind. [[Fern]] notices that existing here feels like a constant pressure, not unlike someone gripping her forearm, but all over and all the time. Pony examines the blood Lark discovered, finding it to be about a week and a half old. He also spots smashed vials and tubing.
+
+Fineas calls for the rest of the group to come look at what he's seeing. They all run towards him, and as they round the corner and behold him sitting with the corrupted person, they each are stopped in their tracks. Lark comments on how ugly it is, causing Fineas to protest, not wanting to insult them in case they could understand speech. Lark tries talking slower to it, tries ad hoc hand signs, and fails to reach any sort of understanding. They clearly do not understand language at all. The creature looks around before suddenly darting off into the city. Lark looks around for whatever could have scared it before looking in the direction it went and seeing a myriad of little fingers and assorted sets of eyes clustered, looking out towards him. Lark and Pony wave at the group, and get only chitters in response. Fern hands one a pastry, which it readily consumes. Lark peers around for an important building, but finds them all in roughly the same state of ruin. He deduces that just about any amenities that once served a purpose were likely no longer intact. The spire at the center appears like a stamen.
+
+The group discusses next steps. Lark initially proposes leaving the weaker members behind to guard the train, suggesting Alistair, Arnold, and some randoms keep watch over it to make sure it doesn't fall into the wrong hands. Pony investigates the train and can only conclude that it isn't working at this time. Fineas suggests that the train has no guarantee of being safer, and in all likelihood the group would be condemning the weakest party members to their fates alone and without their protection. Two randoms are left with the train, and everybody else joins to approach the spire. Everywhere they go, they see little fingers peering around corners. Slim Jim tries hard to think but is too distracted; the voices sound even more distinct now. His thoughts are not his own. Fern looks at the creatures and notices that there are little bits of cloth wrapped in their folds. She realizes that these were once the inhabitants of Darton, the original ones from before the [[Void Calamity]].
+
+
+- 
 			- We continue wandering.
 				- Fern continues taking notes to bring back to Cheryl and Jonas.
 				- The point in the center of the city occasionally thrums. We feel a vibrations through the city.

@@ -2,6 +2,8 @@
 tags:
   - character
   - player
+aliases:
+  - Lark Harrigan
 ---
 _he/him/his_
 Age: 15
