@@ -8,7 +8,7 @@ Listed chronologically, in-game time
 
 ## [[Fey Murder Mystery]]
 
-A yet-to-be-played campaign.
+A yet-to-be-played campaign. D&D 5E.
 ## [[Dungeons and Deserts]]
 
 A semi-traditional Dungeons and Dragons 5E campaign. Exploration, combat, and a story of family formed, found, and rediscovered.
