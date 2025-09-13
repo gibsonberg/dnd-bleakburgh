@@ -16,10 +16,10 @@ Jump to:
 
 | Quantity     | Value |
 | ------------ | ----- |
-| Maximum HP   | XX    |
-| Current HP   | XX    |
+| Maximum HP   | 17    |
+| Current HP   | 17    |
 | Temporary HP | 0     |
-**Hit Dice:** Xd8
+**Hit Dice:** 4d8
 
 **Death Saves:**
 Successes:
@@ -45,12 +45,12 @@ _STR for non-finesse melee, DEX for finesse melee & ranged, spell varies by clas
 
 | Ability | Score | Modifier |
 | ------- | ----- | -------- |
-| STR     | 10    | +0       |
-| DEX     | 10    | +0       |
-| CON     | 10    | +0       |
-| INT     | 10    | +0       |
-| WIS     | 10    | +0       |
-| CHA     | 10    | +0       |
+| STR     | 14    | +2       |
+| DEX     | 15    | +2       |
+| CON     | 8     | -1       |
+| INT     | 14    | +2       |
+| WIS     | 15    | +2       |
+| CHA     | 16    | +3       |
 ## Score Modifiers
 
 | Score | Modifier |

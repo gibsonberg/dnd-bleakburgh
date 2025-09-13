@@ -2,7 +2,7 @@
 tags:
   - campaign
 ---
-Setting: [[Arulon]], year XXXX
+Setting: [[Auberin]], year ~500 AC (After Confinement in Auberin)
 
 # Synopsis
 

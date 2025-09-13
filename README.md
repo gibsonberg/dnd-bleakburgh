@@ -6,7 +6,7 @@ Wiki by Gibson Berg.
 # Campaigns Covered
 Listed chronologically, in-game time
 
-## [[Fey Murder Mystery]]
+## [[A Curious Incident at Devil's Crown]]
 
 A yet-to-be-played campaign. D&D 5E.
 ## [[Dungeons and Deserts]]
