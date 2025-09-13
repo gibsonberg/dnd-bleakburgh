@@ -117,4 +117,5 @@ Haralamb is not yet an important advisor at campaign start I don't believe but i
 
 # Campaigns Featured
 
-- \[ Link directly to session document ]
+- [[A Curious Incident at Devil's Crown]]
+	- 
