@@ -2,10 +2,12 @@
 tags:
   - character
   - non-player
+aliases:
+  - Mina
 ---
 ![[newchar.jpeg|400]]
 _she/her/hers_
-**Age:**
+**Age:** early 20s
 **Race:**
 **Class:**
 **Alignment:**

@@ -33,10 +33,11 @@ Failures:
 
 # Passive Stats
 
-**Armor Class:** 1X _(Leather Armor: 11 + DEX)_
-**Initiative:** +X _(= DEX Mod)_
+**Armor Class:** 13 _(Leather Armor: 11 + DEX)_
+**Initiative:** +2 _(= DEX Mod)_
 **Speed:** 30
 **Passive Wisdom (Perception):** 1X _(= 10 + WIS Mod)_
+**Spell Save DC:** 14 (8 + Prof + WIS Mod)
 
 **Attack Bonus:** Ability Mod + Proficiency Bonus
 _STR for non-finesse melee, DEX for finesse melee & ranged, spell varies by class_
@@ -74,7 +75,7 @@ _STR for non-finesse melee, DEX for finesse melee & ranged, spell varies by clas
 
 # Proficiency
 
-**Proficiency Bonus:** +X
+**Proficiency Bonus:** +2
 _See Character Advancement Table_
 
 ## Skills

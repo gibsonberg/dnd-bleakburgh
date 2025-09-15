@@ -56,57 +56,30 @@ Haralamb was conducted to a penal camp near the Kallandan coast (where?), and wa
 
 Haralamb spent roughly a decade practicing his religion in secret, becoming known among followers within the town as a faith healer and a mystic. As his following grew among the clandestine Eva followers within the town, Haralamb began to use his influence to gain favor with wealthier and more-prestigious spiritual residents of the town. Rumors eventually began to circulate of an Eva-worshipping mystic cult within the town, with some suspecting Haralamb at its head. Haralamb once again came under the scrutiny of local South Kallandan officials and law enforcement as the rumors expanded to various claims of his meddling in political affairs and obscene rituals including self-flagellation, among other unconscionable acts.
 
-Haralamb and several other followers of Eva were rounded up on charges relating to the creation of cults and sentenced to immediate exile and the supposed cult dissolved. The arrested members were given a month
+Haralamb and several of the most notable followers of Eva were rounded up on charges relating to the creation of cults and sentenced to exile from Kallanda in perpetuity. The arrested members were given a month to collect their belongings and arrange their departure from Kallanda or face execution. Haralamb was able to obtain passage on the ship of a Kallandan sultan headed for business in [[Arulon]]. In order to do so, he needed to give up the vast majority of his meager wealth and serve as the ship's chaplain.
 
+## Travels at Sea, Bargain for Salvation
+The journey at sea was calm, but difficult for Haralamb from the start. Having never been at sea and already worse for wear after maltreatment by Kallandan officials, he fared poorly at sea. The calmness of the journey lulled the crew into a false confidence, and though weather stayed calm, the ship was blown north of their intended course, straying near Auberin.
 
-## Bargain for Survival
-asdf
+Not long after entering Auberinian waters, weather changed for the worse. The ship met a storm, and with it rain and great waves. Haralamb was wholly unprepared and largely confined to his bunk. His sea sickness worsened further and he feared imminent death at sea. Each night, Haralamb prayed for salvation and safe conveyance to his new home.
 
-HE GAINS HIS NEW IDENTITY AND RETUNIE THROUGH BEOLACHT'S WORKINGS
+On the third night, he received an answer. He had hardly fallen asleep among the ship's jostling when he awoke to a silent, steady ship. It was lit only by moonlight. None of his fellow crew members were in their bunks. As Haralamb rose to his feet and began to step towards the exit, a mist seeped into the quarters, twisting around the ladder as it fell. Haralamb froze as it pooled around his feet. He watched as it then rose and took humanoid form. [[Beolacht]] stood before him.
 
-Patron Beolacht? This also serves as reason for travel to Auberin; I saw him over the sea and decided to travel there. I am uninvolved in the murder but this acts as good red herring.
+Beolacht consoled Haralamb. He was such a poor thing who had been through so much, and someone so faithful as him surely deserved salvation from this wretched ship. Someone so devoted to his faith must be granted a head start on building his next congregation. The awe-struck Haralamb asks who he is, and Beolacht only replies that he has been gone for some time. He tells Haralamb the ship must head towards Auberin, where he would appear at a later date. In exchange for Haralamb's assistance, Beolacht would permit Haralamb safe passage and aid in gathering repute in Auberin.
 
-In a dream, Beolacht tells me I need to be in Auberin because he is going to appear in some manner and that he has been kept away for some time. H
+The specific terms of the deal are as follows:
+- Beolacht's obligations:
+	- Beolacht would act as Haralamb's Patron, granting him supernatural abilities which would aid him in influencing those he met in Auberin.
+	- Beolacht would ensure the crew did not recall Haralamb's birth name, only referring to him as "Chaplain".
+	- Beolacht would dispel the turbulent weather and do everything within his power to ensure the ship's journey remained safe while headed towards Auberin.
+	- Beolacht would ensure the crew is particularly susceptible to Haralamb's influence until he found entry in the court in Auberin.
+- Haralamb's obligations:
+	- Haralamb would act as Beolacht's beneficiary, answering to him when necessary through his dreams while continuing to from his magic.
+	- Haralamb would give up his birth name and never speak it again. Instead of "Laurientiu Nita," he would henceforth take the name "Haralamb Carcosa."
+	- Haralamb would convince the ship's crew to fully change course for Auberin.
+	- Haralamb would find entry into the court in Auberin.
 
-Beolacht
-- Most powerful of the imps
-- Manifests kind of like a demon would
-	- Horns, skeletal ish wings with membranes, grotesque
-	- Darkkkkkkkkk indigo
-	- Looks like woodcarvings of lucifer
-	- A bit like a demented cherub but as like a full person not a baby
-	- Always naked
-- What he does
-	- The lesser imps physically just tear people apart.
-	- Beolacht works a lot with madness
-	- Lots of sailors tales abotu catching his madness while at sea
-	- He would sow distrust among the colonies themselves using individuals
-	- He uses people as instruments of chaos, but physically operates similar to vampires
-		- Being able to turn into mist to creep under doors and appear in rooms
-	- Fear is the thing imps delight in most.
-		- Illusions, transmutations, calling upon calling swarms of things into the house and such
-- He is not all-powerful, but is dangerous in proximity to mortals
-- He genuinely does have favorite people, unlike most imps who just throw them around
-- The pact should be more Luciferian in nature; give you what you want at great cost
-	- You poor soul, you've been through so much, let me help you
-	- Maybe he contacts you on a ship already heading to Auberin?
-		- Cross through some bit of the sea where these dreams can appear to you
-- His whole thing is kind of that he wants to reclaim Auberin, which is kind of his sandbox he wants back. Doesn't want world domination
-- Lucifer, Magic Man from Adventure Time
-- Transmutations
-	- Magic Man turns a bird inside out
-	- Twisted shit like that
-	- Bill Cypher raising his hand and all a deer's teeth leave its mouth.
-	- Relatively minor but nightmarish
-- Drawn to you because youre already a bit adept in the sort of thing that allwos cult shit to happen; rumors precede you due to Goliath build
-
-Tales about my character; start at LVL 4
-
-## Return to Society
-asdf
-
-## Journey to Auberin
-asdf
+Haralamb agreed to the deal, shaking Beolacht's clawed hands. He awoke again to a still ship, this time with sunlight streaming through the ship's deck into the quarters below. Haralamb spoke to an amiable crew
 
 ## Entry into the Auberinian Court
 asdf

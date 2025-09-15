@@ -22,8 +22,7 @@ Jump to:
 
 # History
 
-\[ Insert brief description of the history of the location ]
-
+The first colonists of Auberin came from [[Arulon]]
 # Politics
 
 \[ Insert brief description of local politics, as relevant, whether familial or formal ]

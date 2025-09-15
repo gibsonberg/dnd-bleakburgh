@@ -149,8 +149,8 @@ You can cast [[Silent Image]] at will, without expending a spell slot or materia
 At 3rd level, your otherworldly patron bestows a gift upon you for your loyal service. You gain one of the following features of your choice.
 ##### Pact of the Talisman
 - Your patron gives you an amulet, a talisman that can aid the wearer when the need is great. When the wearer fails an ability check, they can add a d4 to the roll, potentially turning the roll into a success. This benefit can be used a number of times equal to your proficiency bonus, and all expended uses are restored when you finish a long rest.
+	- CHARGES: 2 (2 max)
 - If you lose the talisman, you can perform a 1-hour ceremony to receive a replacement from your patron. This ceremony can be performed during a short or long rest, and it destroys the previous amulet. The talisman turns to ash when you die.
-TODO: DISCUSS WITH SAME; HOMEBREW THIS TO MAKE IT NOT ABLE TO BE RE-SUMMONED BUT WITH GREATER BOON?
 
 #### Ability Score Improvement (Level 4, 8, 12, 16, 19)
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
@@ -168,6 +168,12 @@ The Archfey lets you choose from an expanded list of spells when you learn a war
 - 5th Level: Dominate Person, Seeming
 #### Fey Presence
 Starting at 1st level, your patron bestows upon you the ability to project the beguiling and fearsome presence of the fey. As an action, you can cause each creature in a 10-foot cube originating from you to make a Wisdom saving throw against your warlock spell save DC. The creatures that fail their saving throws are all charmed or frightened by you (your choice) until the end of your next turn.
+- **Charmed:**
+	- A charmed creature can’t attack the charmer or target the charmer with harmful abilities or magical effects.
+	- The charmer has advantage on any ability check to interact socially with the creature.
+- **Frightened:**
+	- A frightened creature has disadvantage on ability checks and attack rolls while the source of its fear is within line of sight.
+	- The creature can’t willingly move closer to the source of its fear.
 
 Once you use this feature, you can't use it again until you finish a short or long rest.
 
@@ -198,12 +204,12 @@ You can parley this attention into access to people and places you might not oth
 
 ### Feats
 #### Metamagic Adept
-(IF LEVEL 4 AND DON'T PICK +2CHA)
 You've learned how to exert your will on your spells to alter how they function:
 
 - You learn two [Metamagic options](http://dnd5e.wikidot.com/sorcerer#toc12) of your choice from the sorcerer class. You can use only one Metamagic option on a spell when you cast it, unless the option says otherwise. Whenever you reach a level that grants the Ability Score Improvement feature, you can replace one of these Metamagic options with another one from the sorcerer class.
 
 - You gain 2 sorcery points to spend on Metamagic (these points are added to any sorcery points you have from another source but can be used only on Metamagic). You regain all spent sorcery points when you finish a long rest.
+	- POINTS: 2 (max 2)
 
 ##### Metamagic Options
 ##### Subtle Spell

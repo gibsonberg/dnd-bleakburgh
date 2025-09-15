@@ -13,8 +13,8 @@ Jump to:
 **Spell Save DC:** 1X *(8 + Prof + CHA)*
 **Spell Attack Bonus:** +X *(Prof + CHA)*
 
-**Cantrips Known:** 2 or 3?
-**Spells Known:** 4 or 5?
+**Cantrips Known:** 3?
+**Spells Known:** 5
 **Spell Max Level:** 2nd
 
 **Spell Slots:** 2, 2nd Level
@@ -22,21 +22,22 @@ Jump to:
 
 # Cantrips
 
-| CHOSEN?                                                                      | Spell Name                                                                                   | School        | Casting Time | Range | Duration     | Components |
-| ---------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | ------------- | ------------ | ----- | ------------ | ---------- |
-| X                                                                            | [[Friends]]                                                                                  | Enchantment   | 1 Action     | Self  | Conc., 1 min | S, M       |
-|                                                                              | [[Infestation]]                                                                              | Conjuration   | 1 Action     | 30 ft | Instant      | V, S, M    |
-| X?                                                                           | [[Mage Hand]]                                                                                | Conjuration   | 1 Action     | 30 ft | 1 min        | V, S       |
-|                                                                              | [[Minor Illusion]]                                                                           | Illusion      | 1 Action     | 30 ft | 1 min        | S, M       |
-| X                                                                            | [[Prestidigitation]]                                                                         | Transmutation | 1 Action     | 10 ft | 1 hr         | V, S       |
-| X* (from [[Haralamb Carcosa - Features & Traits#Misty Visions\|Invocation]]) | [[Silent Image]] ([[Haralamb Carcosa - Features & Traits#Misty Visions\|1st level at will]]) | Illusion      | 1 Action     | 60 ft | 10 min       | V, S, M    |
+| CHOSEN?                                                                      | Spell Name                                                                                   | School        | Casting Time | Range  | Duration     | Components |
+| ---------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | ------------- | ------------ | ------ | ------------ | ---------- |
+| X                                                                            | [[Eldritch Blast]]                                                                           | Evocation     | 1 Action     | 120 ft | Instant      | V, S       |
+|                                                                              | [[Friends]]                                                                                  | Enchantment   | 1 Action     | Self   | Conc., 1 min | S, M       |
+|                                                                              | [[Infestation]]                                                                              | Conjuration   | 1 Action     | 30 ft  | Instant      | V, S, M    |
+|                                                                              | [[Mage Hand]]                                                                                | Conjuration   | 1 Action     | 30 ft  | 1 min        | V, S       |
+| X                                                                            | [[Minor Illusion]]                                                                           | Illusion      | 1 Action     | 30 ft  | 1 min        | S, M       |
+| X                                                                            | [[Prestidigitation]]                                                                         | Transmutation | 1 Action     | 10 ft  | 1 hr         | V, S       |
+| X* (from [[Haralamb Carcosa - Features & Traits#Misty Visions\|Invocation]]) | [[Silent Image]] ([[Haralamb Carcosa - Features & Traits#Misty Visions\|1st level at will]]) | Illusion      | 1 Action     | 60 ft  | 10 min       | V, S, M    |
 
 # Level 1 Spells
 
 | CHOSEN? | Spell Name                        | School            | Casting Time   | Range | Duration      | Components                                                                 |
 | ------- | --------------------------------- | ----------------- | -------------- | ----- | ------------- | -------------------------------------------------------------------------- |
-|         | [[Cause Fear]]                    | Necromancy        | 1 Action       | 60 ft | Conc., 1 min  | V                                                                          |
-|         | [[Charm Person]]                  | Enchantment       | 1 Action       | 30 ft | 1 hour        | V, S                                                                       |
+| X       | [[Cause Fear]]                    | Necromancy        | 1 Action       | 60 ft | Conc., 1 min  | V                                                                          |
+| X       | [[Charm Person]]                  | Enchantment       | 1 Action       | 30 ft | 1 hour        | V, S                                                                       |
 |         | [[Comprehend Languages]]          | Divination        | 1 Action       | Self  | 1 hour        | V, S, M (a pinch of soot and salt)                                         |
 |         | [[Expeditious Retreat]]           | Transmutation     | 1 Bonus Action | Self  | Conc., 10 min | V, S                                                                       |
 |         | [[Faerie Fire]] (AF)              | Evocation         | 1 Action       | 60 ft | Conc., 1 min  | V                                                                          |
@@ -52,9 +53,9 @@ Jump to:
 |         | [[Calm Emotions]] (AF)    | Enchantment   | 1 Action       | 60 ft | Conc., 1 min  | V, S                                                                         |
 |         | [[Darkness]]              | Evocation     | 1 Action       | 60 ft | Conc., 10 min | V, M (bat fur and a drop of pitch or piece of coal)                          |
 |         | [[Enthrall]]              | Enchantment   | 1 Action       | 60 ft | 1 min         | V, S                                                                         |
-| X?      | [[Hold Person]]           | Enchantment   | 1 Action       | 60 ft | Conc., 1 min  | V, S, M (a small, straight piece of iron)                                    |
+|         | [[Hold Person]]           | Enchantment   | 1 Action       | 60 ft | Conc., 1 min  | V, S, M (a small, straight piece of iron)                                    |
 | X       | [[Invisibility]]          | Illusion      | 1 Action       | Touch | Conc., 1 hr   | V, S, M (an eyelash encased in gum arabic)                                   |
 |         | [[Misty Step]]            | Conjuration   | 1 Bonus Action | Self  | Instant       | V                                                                            |
 | X       | [[Phantasmal Force]] (AF) | Illusion      | 1 Action       | 60 ft | Conc., 1 min  | V, S, M (a bit of fleece)                                                    |
-| X       | [[Spider Climb]]          | Transmutation | 1 Action       | Touch | Conc., 1 hr   | V, S, M (a drop of bitumen and a spider)                                     |
+|         | [[Spider Climb]]          | Transmutation | 1 Action       | Touch | Conc., 1 hr   | V, S, M (a drop of bitumen and a spider)                                     |
 | X       | [[Suggestion]]            | Enchantment   | 1 Action       | 30 ft | Conc., 8 hrs  | V, M (a snake’s tongue and either a bit of honeycomb or a drop of sweet oil) |
