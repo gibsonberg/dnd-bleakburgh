@@ -36,9 +36,10 @@ Failures:
 **Armor Class:** 13 _(Leather Armor: 11 + DEX)_
 **Initiative:** +2 _(= DEX Mod)_
 **Speed:** 30
-**Passive Wisdom (Perception):** 1X _(= 10 + WIS Mod)_
-**Spell Save DC:** 14 (8 + Prof + WIS Mod)
+**Passive Wisdom (Perception):** 12 _(= 10 + WIS Mod)_
+**Spell Save DC:** 13 (8 + Prof + WIS Mod)
 
+**Spell Attack Bonus:** +5
 **Attack Bonus:** Ability Mod + Proficiency Bonus
 _STR for non-finesse melee, DEX for finesse melee & ranged, spell varies by class_
 
@@ -81,7 +82,7 @@ _See Character Advancement Table_
 ## Skills
 
 **STRENGTH**
-- O Athletics
+- X Athletics
 **DEXTERITY**
 - O Acrobatics
 - O Sleight of Hand

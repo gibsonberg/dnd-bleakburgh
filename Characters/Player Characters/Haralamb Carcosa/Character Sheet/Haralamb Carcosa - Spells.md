@@ -13,7 +13,7 @@ Jump to:
 **Spell Save DC:** 1X *(8 + Prof + CHA)*
 **Spell Attack Bonus:** +X *(Prof + CHA)*
 
-**Cantrips Known:** 3?
+**Cantrips Known:** 3
 **Spells Known:** 5
 **Spell Max Level:** 2nd
 
