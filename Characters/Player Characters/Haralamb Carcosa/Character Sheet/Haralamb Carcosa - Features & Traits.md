@@ -146,8 +146,11 @@ You can cast [[Silent Image]] at will, without expending a spell slot or materia
 At 3rd level, your otherworldly patron bestows a gift upon you for your loyal service. You gain one of the following features of your choice.
 ##### Pact of the Talisman
 - Your patron gives you an amulet, a talisman that can aid the wearer when the need is great. When the wearer fails an ability check, they can add a d4 to the roll, potentially turning the roll into a success. This benefit can be used a number of times equal to your proficiency bonus, and all expended uses are restored when you finish a long rest.
-	- CHARGES: 2 (2 max)
+	- CHARGES: 1 (2 max)
 - If you lose the talisman, you can perform a 1-hour ceremony to receive a replacement from your patron. This ceremony can be performed during a short or long rest, and it destroys the previous amulet. The talisman turns to ash when you die.
+###### Sam additions to Talisman
+- Can choose to cast [[Charm Person]] or [[Command]] once per day, the target does not know they had it casted upon them.
+- On occasion you may get a "free insight check" -- information you would not know otherwise.
 
 #### Ability Score Improvement (Level 4, 8, 12, 16, 19)
 When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.

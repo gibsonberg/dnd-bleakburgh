@@ -5,7 +5,7 @@ tags:
 ---
 ![[newchar.jpeg|400]]
 _pronouns_
-**Age:**
+**Age:** 16
 **Race:**
 **Class:**
 **Alignment:**
