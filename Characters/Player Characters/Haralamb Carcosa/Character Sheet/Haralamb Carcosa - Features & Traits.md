@@ -44,10 +44,7 @@ FROM [[Haralamb Carcosa - Features & Traits#Far Traveler|Far Traveler]]
 FROM [[Haralamb Carcosa - Features & Traits#Far Traveler|Far Traveler]]
 
 ## Bonds
-So long as I have this token from my homeland, I can face any adversity in this strange land. (IF PICK TALISMAN AS PACT BOON)
-
-Though I had no choice, I lament having to leave my loved ones behind. I hope to see them again one day. (ALTERNATIVE)
-FROM [[Haralamb Carcosa - Features & Traits#Far Traveler|Far Traveler]]
+Though I had no choice, I lament having to leave my loved ones behind. I hope to see them again one day. FROM [[Haralamb Carcosa - Features & Traits#Far Traveler|Far Traveler]]
 
 ## Flaws
 I have a weakness for the new intoxicants and other pleasures of this land.
