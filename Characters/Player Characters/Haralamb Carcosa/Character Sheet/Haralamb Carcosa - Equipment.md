@@ -2,6 +2,7 @@
 tags:
   - character_feature
   - player
+  - cidc
 ---
 Jump to:
 - [[Haralamb Carcosa - Equipment#Currency|Currency]]
@@ -22,19 +23,19 @@ GP: 5
 
 # Items
 
-| Name                              | Description                   | Value | Quantity |
-| --------------------------------- | ----------------------------- | ----- | -------- |
-| SOME ITEM<br>- A bell?<br>- Ring? | Arcane focus                  | XX GP | 1        |
-| Backpack                          | Dungeoneer's Pack             | 12 GP | 1        |
-| Caltrops                          | from DP                       |       | 1        |
-| Crowbar                           | from DP                       |       | 1        |
-| Flask of Oil                      | from DP                       |       | 2        |
-| Rations                           | from DP                       |       | 10 days  |
-| Rope                              | from DP                       |       | ?        |
-| Tinderbox                         | from DP                       |       | 1        |
-| Torch                             | from DP                       |       | 10       |
-| Waterskin                         | from DP                       |       | 1        |
-| Traveler's Clothes                | One set                       |       | 1        |
-| Playing Cards Set                 |                               | 5 SP  | 1        |
-| Small Jewelry                     | In make of character's origin | 10 GP | 1        |
-|                                   |                               |       |          |
+| Name                  | Description                                    | Value | Quantity |
+| --------------------- | ---------------------------------------------- | ----- | -------- |
+| Scepter               | Arcane focus                                   | XX GP | 1        |
+| Backpack              | Dungeoneer's Pack                              | 12 GP | 1        |
+| Caltrops              | from DP                                        |       | 1        |
+| Crowbar               | from DP                                        |       | 1        |
+| Flask of Oil          | from DP                                        |       | 2        |
+| Rations               | from DP                                        |       | 10 days  |
+| Rope                  | from DP                                        |       | ?        |
+| Tinderbox             | from DP                                        |       | 1        |
+| Torch                 | from DP                                        |       | 10       |
+| Waterskin             | from DP                                        |       | 1        |
+| Traveler's Clothes    | One set                                        |       | 1        |
+| Playing Cards Set     |                                                | 5 SP  | 1        |
+| Small Jewelry         | In make of character's origin                  | 10 GP | 1        |
+| [[Ceremonial Dagger]] | In belongings in quarters as of [[2025-09-29]] |       | 1        |

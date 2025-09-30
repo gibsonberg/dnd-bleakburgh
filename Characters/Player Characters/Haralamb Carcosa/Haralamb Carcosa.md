@@ -2,8 +2,12 @@
 tags:
   - character
   - player
+  - cidc
 aliases:
   - Laurientiu Nita
+  - Haralamb
+  - Sultan Carcosa
+  - Sultan Haralamb Carcosa
 ---
 Jump to:
 - [[Haralamb Carcosa#Campaign Events|Campaign]]
@@ -29,8 +33,13 @@ _he/him/his_
 Haralamb Carcosa, born Laurentiu Nita, is a prospective advisor in the Court of [[Auberin]].
 
 # Campaign Events
+Haralamb Carcosa headed towards the [[Palace at Devil's Crown]] in a commoner's wagon, filled with his belongings and retinue. The [[Haralamb's Retinue|retinue]] consisted of a few gaunt, dark-eyed individuals. They approached along a dirt road, and Haralamb and [[Geoffrey]] gossiped about how excited the latter was to woo some ladies. Geoffrey asked him what he would say he's there for; seeking foreign spirituality, Haralamb replied.
 
-\[ Brief summary of changes to the character/their involvement as a result of the events of the campaign in which they are featured ]
+As they arrived at the gates of the palace, they are checked for weapons by [[Declan]]. He initially gave them hassle, but within moments [[Morgan Crane|the monarch]] walked out and greeted Haralamb with great joy. He insisted Haralamb be let in as an honored guest. Haralamb and his retinue, carrying trunks, made their way inside.
+
+During the opening party of [[The Ceremony]], Haralamb encouraged Geoffrey to go seek out the women he so fancied and to make sure to let him know if he got in good with any of the kitchen staff. Haralamb partook in the party, assisting the king and [[Dalia Bonnie]] in pronouncing opposite day. He performed a shuffle before slipping away when the spotlight was removed from him. He snuck into the kitchen himself and, [[Invisibility|invisible]], steals the [[Ceremonial Dagger]] from its case, swapping it for a kitchen knife and staching it in his belongings. He returned to the party and did not draw attention to himself as the cake-cutting began.
+
+At the time of the monarch's murder, Haralamb was sat near [[Geoffrey]] in the dining hall.
 
 # Appearance
 REDO TO TAKE INTO ACCOUNT THE SULTAN ASPECT OF HIM THAT HE NOW SHOWS PUBLICLY
@@ -83,4 +92,4 @@ Haralamb made landfall with his empty ship at a small Auberinian port. He was im
 # Campaigns Featured
 
 - [[A Curious Incident at Devil's Crown]]
-	- 
+	- [[2025-09-29]]

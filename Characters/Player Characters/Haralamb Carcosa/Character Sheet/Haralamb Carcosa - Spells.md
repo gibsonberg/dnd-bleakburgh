@@ -2,6 +2,7 @@
 tags:
   - character_feature
   - player
+  - cidc
 ---
 Jump to:
 - [[Haralamb Carcosa - Spells#Cantrips|Cantrips]]

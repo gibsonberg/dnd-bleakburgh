@@ -2,6 +2,7 @@
 tags:
   - character_feature
   - player
+  - cidc
 ---
 Jump to:
 - [[Haralamb Carcosa - Features & Traits#Flavor|Flavor]]
