@@ -3,6 +3,8 @@ tags:
   - character
   - non-player
   - cidc
+aliases:
+  - Marvin
 ---
 ![[newchar.jpeg|400]]
 _any pronouns_

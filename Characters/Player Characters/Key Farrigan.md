@@ -8,7 +8,7 @@ aliases:
 ---
 ![[newchar.jpeg|400]]
 _pronouns_
-**Age:** 16
+**Age:** 16 (19?)
 **Race:**
 **Class:**
 **Alignment:**

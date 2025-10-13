@@ -68,7 +68,7 @@ https://dnd5e.wikidot.com/lineage:goliath
 **Little Giant:** You have proficiency in the Athletics skill, and you count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.
 **Mountain Born:** You have resistance to cold damage. You also naturally acclimate to high altitudes, even if you’ve never been to one. This includes elevations above 20,000 feet.
 **Stone's Endurance:** You can supernaturally draw on unyielding stone to shrug off harm. When you take damage, you can use your reaction to roll a d12. Add your Constitution modifier to the number rolled and reduce the damage by that total.
-- You can use this trait a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
+- You can use this trait a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest. (2)
 **Languages:** Your character can speak, read, and write Common and one other language that you and your DM agree is appropriate for the character.
 
 ## Class
@@ -147,7 +147,7 @@ You can cast [[Silent Image]] at will, without expending a spell slot or materia
 At 3rd level, your otherworldly patron bestows a gift upon you for your loyal service. You gain one of the following features of your choice.
 ##### Pact of the Talisman
 - Your patron gives you an amulet, a talisman that can aid the wearer when the need is great. When the wearer fails an ability check, they can add a d4 to the roll, potentially turning the roll into a success. This benefit can be used a number of times equal to your proficiency bonus, and all expended uses are restored when you finish a long rest.
-	- CHARGES: 1 (2 max)
+	- CHARGES: 0 (2 max)
 - If you lose the talisman, you can perform a 1-hour ceremony to receive a replacement from your patron. This ceremony can be performed during a short or long rest, and it destroys the previous amulet. The talisman turns to ash when you die.
 ###### Sam additions to Talisman
 - Can choose to cast [[Charm Person]] or [[Command]] once per day, the target does not know they had it casted upon them.
@@ -210,7 +210,7 @@ You've learned how to exert your will on your spells to alter how they function:
 - You learn two [Metamagic options](http://dnd5e.wikidot.com/sorcerer#toc12) of your choice from the sorcerer class. You can use only one Metamagic option on a spell when you cast it, unless the option says otherwise. Whenever you reach a level that grants the Ability Score Improvement feature, you can replace one of these Metamagic options with another one from the sorcerer class.
 
 - You gain 2 sorcery points to spend on Metamagic (these points are added to any sorcery points you have from another source but can be used only on Metamagic). You regain all spent sorcery points when you finish a long rest.
-	- POINTS: 2 (max 2)
+	- POINTS: 1 (max 2)
 
 ##### Metamagic Options
 ##### Subtle Spell

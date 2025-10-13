@@ -18,7 +18,7 @@ Jump to:
 **Spells Known:** 5
 **Spell Max Level:** 2nd
 
-**Spell Slots:** 1, 2nd Level
+**Spell Slots:** 0, 2nd Level
 **Spell Slots Used:** 0
 
 # Cantrips
