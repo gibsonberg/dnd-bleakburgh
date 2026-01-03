@@ -18,7 +18,7 @@ Jump to:
 | Quantity     | Value |
 | ------------ | ----- |
 | Maximum HP   | 17    |
-| Current HP   | 17    |
+| Current HP   | 5     |
 | Temporary HP | 0     |
 **Hit Dice:** 4d8
 

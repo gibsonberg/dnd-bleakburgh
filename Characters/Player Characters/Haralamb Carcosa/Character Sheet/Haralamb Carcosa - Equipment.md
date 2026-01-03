@@ -38,4 +38,4 @@ GP: 5
 | Traveler's Clothes    | One set                       |       | 1        |
 | Playing Cards Set     |                               | 5 SP  | 1        |
 | Small Jewelry         | In make of character's origin | 10 GP | 1        |
-| [[Ceremonial Dagger]] |                               |       | 1        |
+
